@@ -176,20 +176,186 @@ def generate_calendars(
 
 def render_index(output_dir: Path, schools: List[School]) -> None:
     rows = "\n".join(
-        f"<li><a href=\"{school.slug}.ics\">{school.name}</a></li>" for school in schools
+        """
+      <li class="school-card" data-slug="{slug}" data-name="{name}">
+        <div class="school-card__header">
+          <h2>{name}</h2>
+          <a class="ics-link" href="{slug}.ics">Download .ics</a>
+        </div>
+        <div class="school-card__actions">
+          <a class="button" data-action="google" href="#">Google Calendar</a>
+          <a class="button" data-action="outlook" href="#">Outlook</a>
+          <a class="button" data-action="ical" href="#">iCal</a>
+        </div>
+      </li>
+    """.strip().format(slug=school.slug, name=school.name)
+        for school in schools
     )
     html = f"""<!DOCTYPE html>
 <html lang=\"en\">
   <head>
     <meta charset=\"utf-8\" />
+    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" />
     <title>School Lunch Calendars</title>
+    <style>
+      :root {{
+        color-scheme: light;
+        font-family: "Inter", "Segoe UI", system-ui, -apple-system, sans-serif;
+        line-height: 1.6;
+        color: #1f2937;
+        background: #f3f4f6;
+      }}
+
+      * {{
+        box-sizing: border-box;
+      }}
+
+      body {{
+        margin: 0;
+      }}
+
+      main {{
+        max-width: 960px;
+        margin: 0 auto;
+        padding: 48px 20px 64px;
+      }}
+
+      header {{
+        margin-bottom: 32px;
+      }}
+
+      h1 {{
+        font-size: clamp(2rem, 3vw, 2.75rem);
+        margin-bottom: 12px;
+        letter-spacing: -0.02em;
+      }}
+
+      p {{
+        margin: 0;
+        color: #4b5563;
+        font-size: 1.05rem;
+      }}
+
+      .card {{
+        background: #ffffff;
+        border-radius: 16px;
+        padding: 28px;
+        box-shadow: 0 12px 30px rgba(15, 23, 42, 0.08);
+      }}
+
+      .school-list {{
+        list-style: none;
+        padding: 0;
+        margin: 32px 0 0;
+        display: grid;
+        gap: 18px;
+      }}
+
+      .school-card {{
+        border: 1px solid #e5e7eb;
+        border-radius: 14px;
+        padding: 20px 22px;
+        background: #f9fafb;
+        display: grid;
+        gap: 16px;
+      }}
+
+      .school-card__header {{
+        display: flex;
+        flex-direction: column;
+        gap: 6px;
+      }}
+
+      .school-card h2 {{
+        font-size: 1.25rem;
+        margin: 0;
+        color: #111827;
+      }}
+
+      .ics-link {{
+        font-size: 0.95rem;
+        color: #2563eb;
+        text-decoration: none;
+        font-weight: 600;
+      }}
+
+      .ics-link:hover {{
+        text-decoration: underline;
+      }}
+
+      .school-card__actions {{
+        display: flex;
+        flex-wrap: wrap;
+        gap: 12px;
+      }}
+
+      .button {{
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        padding: 10px 16px;
+        border-radius: 999px;
+        background: #1d4ed8;
+        color: #ffffff;
+        text-decoration: none;
+        font-weight: 600;
+        font-size: 0.95rem;
+        transition: transform 0.15s ease, box-shadow 0.15s ease;
+      }}
+
+      .button:hover {{
+        transform: translateY(-1px);
+        box-shadow: 0 8px 18px rgba(37, 99, 235, 0.2);
+      }}
+
+      .button[data-action="outlook"] {{
+        background: #0f6cbd;
+      }}
+
+      .button[data-action="ical"] {{
+        background: #6b7280;
+      }}
+
+      footer {{
+        margin-top: 36px;
+        color: #6b7280;
+        font-size: 0.9rem;
+      }}
+    </style>
   </head>
   <body>
-    <h1>School Lunch Calendars</h1>
-    <p>Subscribe to your school's lunch calendar using the .ics links below.</p>
-    <ul>
-      {rows}
-    </ul>
+    <main>
+      <header>
+        <h1>School Lunch Calendars</h1>
+        <p>
+          Subscribe once and your calendar will update automatically with the latest lunch
+          menus. Use the buttons below for the most popular calendar apps or download the
+          .ics file directly.
+        </p>
+      </header>
+      <section class="card">
+        <ul class="school-list">
+          {rows}
+        </ul>
+      </section>
+      <footer>
+        Tip: Most calendar apps refresh subscriptions every few hours. If you just
+        subscribed, give it a little time for new menus to appear.
+      </footer>
+    </main>
+    <script>
+      const buttons = document.querySelectorAll(".school-card");
+      buttons.forEach((card) => {{
+        const slug = card.dataset.slug;
+        const name = card.dataset.name;
+        const icsUrl = new URL(`${{slug}}.ics`, window.location.href).toString();
+        card.querySelector('[data-action="google"]').href =
+          `https://calendar.google.com/calendar/r?cid=${{encodeURIComponent(icsUrl)}}`;
+        card.querySelector('[data-action="outlook"]').href =
+          `https://outlook.live.com/calendar/0/addcal?url=${{encodeURIComponent(icsUrl)}}&name=${{encodeURIComponent(name)}}`;
+        card.querySelector('[data-action="ical"]').href = `webcal://${{new URL(icsUrl).host}}${{new URL(icsUrl).pathname}}`;
+      }});
+    </script>
   </body>
 </html>
 """
