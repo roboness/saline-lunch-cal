@@ -11,7 +11,7 @@ import requests
 
 DEFAULT_DISTRICT = os.getenv("NUTRISLICE_DISTRICT", "a2schools")
 DEFAULT_MENU_TYPE = os.getenv("NUTRISLICE_MENU_TYPE", "lunch")
-DEFAULT_DAYS_AHEAD = int(os.getenv("NUTRISLICE_DAYS_AHEAD", "60"))
+DEFAULT_DAYS_AHEAD = int(os.getenv("NUTRISLICE_DAYS_AHEAD", "28"))
 
 
 @dataclasses.dataclass(frozen=True)
@@ -126,8 +126,8 @@ def build_calendar(school: School, menu_days: List[MenuDay], district: str) -> s
     ]
 
     for day in menu_days:
-        summary = ", ".join(day.entrees) if day.entrees else "Lunch Menu"
-        description = "Full menu:\\n" + "\\n".join(day.foods)
+        summary = day.entrees[0] if day.entrees else "Lunch Menu"
+        description = "Full menu:\n" + "\n".join(day.foods)
         uid = f"{school.slug}-{day.date.isoformat()}@{district}"
         lines.extend(
             [
