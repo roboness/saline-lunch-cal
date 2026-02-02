@@ -223,6 +223,9 @@ def render_index(
         </div>
         <div class="school-card__actions">
           <a class="button" data-action="ics" href="#">ICS link</a>
+          <button class="button button--secondary" data-action="copy" type="button">
+            Copy ICS link
+          </button>
           <a class="button" data-action="subscribe" href="#">Subscribe</a>
         </div>
       </li>
@@ -274,6 +277,21 @@ def render_index(
         margin: 0;
         color: #4b5563;
         font-size: 1.05rem;
+      }}
+
+      .instructions {{
+        margin-top: 16px;
+        color: #4b5563;
+        font-size: 0.98rem;
+      }}
+
+      .instructions ul {{
+        margin: 8px 0 0;
+        padding-left: 20px;
+      }}
+
+      .instructions li {{
+        margin-bottom: 6px;
       }}
 
       .card {{
@@ -330,11 +348,23 @@ def render_index(
         font-weight: 600;
         font-size: 0.95rem;
         transition: transform 0.15s ease, box-shadow 0.15s ease;
+        border: none;
+        cursor: pointer;
       }}
 
       .button:hover {{
         transform: translateY(-1px);
         box-shadow: 0 8px 18px rgba(37, 99, 235, 0.2);
+      }}
+
+      .button--secondary {{
+        background: #e5e7eb;
+        color: #1f2937;
+        box-shadow: none;
+      }}
+
+      .button--secondary:hover {{
+        box-shadow: 0 8px 18px rgba(148, 163, 184, 0.35);
       }}
 
       footer {{
@@ -353,6 +383,19 @@ def render_index(
           {menu_label.lower()} menus. Use the buttons below for the direct ICS link or a
           webcal:// subscription.
         </p>
+        <div class="instructions">
+          <strong>Quick tips:</strong>
+          <ul>
+            <li>
+              To add this to Google Calendar, click the + next to “Other calendars” and
+              paste the ICS link.
+            </li>
+            <li>
+              Use the copy button to grab an ICS link to share or add in other calendar
+              apps.
+            </li>
+          </ul>
+        </div>
       </header>
       <section class="card">
         <ul class="school-list">
@@ -368,6 +411,7 @@ def render_index(
       const cards = document.querySelectorAll(".school-card");
       const baseUrl = new URL(window.location.href);
       baseUrl.pathname = baseUrl.pathname.replace(/[^/]*$/, "");
+      const resetDelayMs = 2000;
       cards.forEach((card) => {{
         const slug = card.dataset.slug;
         const icsUrl = new URL(`${{slug}}.ics`, baseUrl).toString();
@@ -375,6 +419,19 @@ def render_index(
         const icsLocation = new URL(icsUrl);
         card.querySelector('[data-action="subscribe"]').href =
           `webcal://${{icsLocation.host}}${{icsLocation.pathname}}`;
+        const copyButton = card.querySelector('[data-action="copy"]');
+        copyButton.dataset.defaultText = copyButton.textContent;
+        copyButton.addEventListener("click", async () => {{
+          try {{
+            await navigator.clipboard.writeText(icsUrl);
+            copyButton.textContent = "Copied!";
+          }} catch (error) {{
+            copyButton.textContent = "Copy failed";
+          }}
+          window.setTimeout(() => {{
+            copyButton.textContent = copyButton.dataset.defaultText;
+          }}, resetDelayMs);
+        }});
       }});
     </script>
   </body>

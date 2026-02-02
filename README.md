@@ -33,3 +33,15 @@ The generated calendars will be in `public/`.
 ## GitHub Pages
 
 The workflow in `.github/workflows/publish.yml` runs daily and publishes the `public/` directory to the `gh-pages` branch. Configure GitHub Pages to use the `gh-pages` branch as the source.
+
+## Forking for another district
+
+1. Fork this repository.
+2. In your fork, open **Settings → Pages** and set the source to the `gh-pages` branch.
+3. Configure the district details as repository variables in **Settings → Secrets and variables → Actions → Variables**:
+   * `NUTRISLICE_DISTRICT`: the Nutrislice subdomain for your district (for example `a2schools`).
+   * `NUTRISLICE_MENU_TYPE`: the menu type slug to pull (`lunch` by default).
+   * `NUTRISLICE_DAYS_AHEAD`: how many days ahead to publish (defaults to `60` in the workflow).
+4. Run the “Publish lunch calendars” workflow manually once (Actions tab) or wait for the daily schedule.
+
+The GitHub Actions workflow will use those variables on each run to generate and publish calendars for your district.
