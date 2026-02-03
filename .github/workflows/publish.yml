@@ -27,7 +27,7 @@ jobs:
         env:
           NUTRISLICE_DISTRICT: ${{ vars.NUTRISLICE_DISTRICT || 'a2schools' }}
           NUTRISLICE_MENU_TYPE: ${{ vars.NUTRISLICE_MENU_TYPE || 'lunch' }}
-          NUTRISLICE_DAYS_AHEAD: ${{ vars.NUTRISLICE_DAYS_AHEAD || '60' }}
+          NUTRISLICE_DAYS_AHEAD: ${{ vars.NUTRISLICE_DAYS_AHEAD || '28' }}
         run: python generate_ics.py
 
       - name: Publish to GitHub Pages

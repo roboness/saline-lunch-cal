@@ -41,7 +41,7 @@ The workflow in `.github/workflows/publish.yml` runs daily and publishes the `pu
 3. Configure the district details as repository variables in **Settings → Secrets and variables → Actions → Variables**:
    * `NUTRISLICE_DISTRICT`: the Nutrislice subdomain for your district (for example `a2schools`).
    * `NUTRISLICE_MENU_TYPE`: the menu type slug to pull (`lunch` by default).
-   * `NUTRISLICE_DAYS_AHEAD`: how many days ahead to publish (defaults to `60` in the workflow, `28` in local usage).
+   * `NUTRISLICE_DAYS_AHEAD`: how many days ahead to publish (defaults to `28` in the workflow).
 4. Run the “Publish lunch calendars” workflow manually once (Actions tab) or wait for the daily schedule.
 
 The GitHub Actions workflow will use those variables on each run to generate and publish calendars for your district.
