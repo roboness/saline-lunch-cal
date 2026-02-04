@@ -1,0 +1,48 @@
+{
+  "generated_at": "2026-02-04T02:31:26.830535Z",
+  "district": "salineschools",
+  "menu_type": "lunch",
+  "days_ahead": 28,
+  "schools": [
+    {
+      "slug": "harvest",
+      "name": "Harvest ES"
+    },
+    {
+      "slug": "heritage",
+      "name": "Heritage School"
+    },
+    {
+      "slug": "little-star",
+      "name": "Little Star"
+    },
+    {
+      "slug": "pleasant-ridge",
+      "name": "Pleasant Ridge ES"
+    },
+    {
+      "slug": "pooh-corner-2",
+      "name": "Pooh Corner"
+    },
+    {
+      "slug": "pooh-corner",
+      "name": "Pooh Corner GSRP"
+    },
+    {
+      "slug": "saline-alternative",
+      "name": "Saline Alternative"
+    },
+    {
+      "slug": "saline",
+      "name": "Saline HS"
+    },
+    {
+      "slug": "saline-middle-school",
+      "name": "Saline MS"
+    },
+    {
+      "slug": "woodlands-meadow",
+      "name": "Woodland Meadows ES"
+    }
+  ]
+}

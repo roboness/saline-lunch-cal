@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Saline Area Schools School Lunch Calendars</title>
+    <style>
+      :root {
+        color-scheme: light;
+        font-family: "Inter", "Segoe UI", system-ui, -apple-system, sans-serif;
+        line-height: 1.6;
+        color: #1f2937;
+        background: #f3f4f6;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        margin: 0;
+      }
+
+      main {
+        max-width: 960px;
+        margin: 0 auto;
+        padding: 48px 20px 64px;
+      }
+
+      header {
+        margin-bottom: 32px;
+      }
+
+      h1 {
+        font-size: clamp(2rem, 3vw, 2.75rem);
+        margin-bottom: 12px;
+        letter-spacing: -0.02em;
+      }
+
+      p {
+        margin: 0;
+        color: #4b5563;
+        font-size: 1.05rem;
+      }
+
+      .instructions {
+        margin-top: 16px;
+        color: #4b5563;
+        font-size: 0.98rem;
+      }
+
+      .instructions ul {
+        margin: 8px 0 0;
+        padding-left: 20px;
+      }
+
+      .instructions li {
+        margin-bottom: 6px;
+      }
+
+      .card {
+        background: #ffffff;
+        border-radius: 16px;
+        padding: 28px;
+        box-shadow: 0 12px 30px rgba(15, 23, 42, 0.08);
+      }
+
+      .school-list {
+        list-style: none;
+        padding: 0;
+        margin: 32px 0 0;
+        display: grid;
+        gap: 18px;
+      }
+
+      .school-card {
+        border: 1px solid #e5e7eb;
+        border-radius: 14px;
+        padding: 20px 22px;
+        background: #f9fafb;
+        display: grid;
+        gap: 16px;
+      }
+
+      .school-card__header {
+        display: flex;
+        flex-direction: column;
+        gap: 6px;
+      }
+
+      .school-card h2 {
+        font-size: 1.25rem;
+        margin: 0;
+        color: #111827;
+      }
+
+      .school-card__actions {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 12px;
+      }
+
+      .button {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        padding: 10px 16px;
+        border-radius: 999px;
+        background: #1d4ed8;
+        color: #ffffff;
+        text-decoration: none;
+        font-weight: 600;
+        font-size: 0.95rem;
+        transition: transform 0.15s ease, box-shadow 0.15s ease;
+        border: none;
+        cursor: pointer;
+      }
+
+      .button:hover {
+        transform: translateY(-1px);
+        box-shadow: 0 8px 18px rgba(37, 99, 235, 0.2);
+      }
+
+      .button--secondary {
+        background: #e5e7eb;
+        color: #1f2937;
+        box-shadow: none;
+      }
+
+      .button--secondary:hover {
+        box-shadow: 0 8px 18px rgba(148, 163, 184, 0.35);
+      }
+
+      footer {
+        margin-top: 36px;
+        color: #6b7280;
+        font-size: 0.9rem;
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <header>
+        <h1>Saline Area Schools School Lunch Calendars</h1>
+        <p>
+          Subscribe once and your calendar will update automatically with the latest
+          lunch menus. Use the buttons below for the direct ICS link or a
+          webcal:// subscription.
+        </p>
+        <div class="instructions">
+          <strong>Quick tips:</strong>
+          <ul>
+            <li>
+              To add this to Google Calendar, click the + next to “Other calendars” and
+              paste the ICS link.
+            </li>
+            <li>
+              Use the copy button to grab an ICS link to share or add in other calendar
+              apps.
+            </li>
+          </ul>
+        </div>
+      </header>
+      <section class="card">
+        <ul class="school-list">
+          <li class="school-card" data-slug="harvest" data-name="Harvest ES">
+        <div class="school-card__header">
+          <h2>Harvest ES</h2>
+        </div>
+        <div class="school-card__actions">
+          <a class="button" data-action="ics" href="#">ICS link</a>
+          <button class="button button--secondary" data-action="copy" type="button">
+            Copy ICS link
+          </button>
+          <a class="button" data-action="subscribe" href="#">Subscribe</a>
+        </div>
+      </li>
+<li class="school-card" data-slug="heritage" data-name="Heritage School">
+        <div class="school-card__header">
+          <h2>Heritage School</h2>
+        </div>
+        <div class="school-card__actions">
+          <a class="button" data-action="ics" href="#">ICS link</a>
+          <button class="button button--secondary" data-action="copy" type="button">
+            Copy ICS link
+          </button>
+          <a class="button" data-action="subscribe" href="#">Subscribe</a>
+        </div>
+      </li>
+<li class="school-card" data-slug="little-star" data-name="Little Star">
+        <div class="school-card__header">
+          <h2>Little Star</h2>
+        </div>
+        <div class="school-card__actions">
+          <a class="button" data-action="ics" href="#">ICS link</a>
+          <button class="button button--secondary" data-action="copy" type="button">
+            Copy ICS link
+          </button>
+          <a class="button" data-action="subscribe" href="#">Subscribe</a>
+        </div>
+      </li>
+<li class="school-card" data-slug="pleasant-ridge" data-name="Pleasant Ridge ES">
+        <div class="school-card__header">
+          <h2>Pleasant Ridge ES</h2>
+        </div>
+        <div class="school-card__actions">
+          <a class="button" data-action="ics" href="#">ICS link</a>
+          <button class="button button--secondary" data-action="copy" type="button">
+            Copy ICS link
+          </button>
+          <a class="button" data-action="subscribe" href="#">Subscribe</a>
+        </div>
+      </li>
+<li class="school-card" data-slug="pooh-corner-2" data-name="Pooh Corner">
+        <div class="school-card__header">
+          <h2>Pooh Corner</h2>
+        </div>
+        <div class="school-card__actions">
+          <a class="button" data-action="ics" href="#">ICS link</a>
+          <button class="button button--secondary" data-action="copy" type="button">
+            Copy ICS link
+          </button>
+          <a class="button" data-action="subscribe" href="#">Subscribe</a>
+        </div>
+      </li>
+<li class="school-card" data-slug="pooh-corner" data-name="Pooh Corner GSRP">
+        <div class="school-card__header">
+          <h2>Pooh Corner GSRP</h2>
+        </div>
+        <div class="school-card__actions">
+          <a class="button" data-action="ics" href="#">ICS link</a>
+          <button class="button button--secondary" data-action="copy" type="button">
+            Copy ICS link
+          </button>
+          <a class="button" data-action="subscribe" href="#">Subscribe</a>
+        </div>
+      </li>
+<li class="school-card" data-slug="saline-alternative" data-name="Saline Alternative">
+        <div class="school-card__header">
+          <h2>Saline Alternative</h2>
+        </div>
+        <div class="school-card__actions">
+          <a class="button" data-action="ics" href="#">ICS link</a>
+          <button class="button button--secondary" data-action="copy" type="button">
+            Copy ICS link
+          </button>
+          <a class="button" data-action="subscribe" href="#">Subscribe</a>
+        </div>
+      </li>
+<li class="school-card" data-slug="saline" data-name="Saline HS">
+        <div class="school-card__header">
+          <h2>Saline HS</h2>
+        </div>
+        <div class="school-card__actions">
+          <a class="button" data-action="ics" href="#">ICS link</a>
+          <button class="button button--secondary" data-action="copy" type="button">
+            Copy ICS link
+          </button>
+          <a class="button" data-action="subscribe" href="#">Subscribe</a>
+        </div>
+      </li>
+<li class="school-card" data-slug="saline-middle-school" data-name="Saline MS">
+        <div class="school-card__header">
+          <h2>Saline MS</h2>
+        </div>
+        <div class="school-card__actions">
+          <a class="button" data-action="ics" href="#">ICS link</a>
+          <button class="button button--secondary" data-action="copy" type="button">
+            Copy ICS link
+          </button>
+          <a class="button" data-action="subscribe" href="#">Subscribe</a>
+        </div>
+      </li>
+<li class="school-card" data-slug="woodlands-meadow" data-name="Woodland Meadows ES">
+        <div class="school-card__header">
+          <h2>Woodland Meadows ES</h2>
+        </div>
+        <div class="school-card__actions">
+          <a class="button" data-action="ics" href="#">ICS link</a>
+          <button class="button button--secondary" data-action="copy" type="button">
+            Copy ICS link
+          </button>
+          <a class="button" data-action="subscribe" href="#">Subscribe</a>
+        </div>
+      </li>
+        </ul>
+      </section>
+      <footer>
+        Feedback? <a href="https://github.com/georgeh/ann-arbor-lunch-cal/issues/new">Submit an issue</a>
+        or <a href="https://a2mi.social/@george">contact me on Mastodon</a>.
+      </footer>
+    </main>
+    <script>
+      const cards = document.querySelectorAll(".school-card");
+      const baseUrl = new URL(window.location.href);
+      baseUrl.pathname = baseUrl.pathname.replace(/[^/]*$/, "");
+      const resetDelayMs = 2000;
+      cards.forEach((card) => {
+        const slug = card.dataset.slug;
+        const icsUrl = new URL(`${slug}.ics`, baseUrl).toString();
+        card.querySelector('[data-action="ics"]').href = icsUrl;
+        const icsLocation = new URL(icsUrl);
+        card.querySelector('[data-action="subscribe"]').href =
+          `webcal://${icsLocation.host}${icsLocation.pathname}`;
+        const copyButton = card.querySelector('[data-action="copy"]');
+        copyButton.dataset.defaultText = copyButton.textContent;
+        copyButton.addEventListener("click", async () => {
+          try {
+            await navigator.clipboard.writeText(icsUrl);
+            copyButton.textContent = "Copied!";
+          } catch (error) {
+            copyButton.textContent = "Copy failed";
+          }
+          window.setTimeout(() => {
+            copyButton.textContent = copyButton.dataset.defaultText;
+          }, resetDelayMs);
+        });
+      });
+    </script>
+  </body>
+</html>
