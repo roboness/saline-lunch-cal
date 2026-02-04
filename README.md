@@ -45,3 +45,6 @@ The workflow in `.github/workflows/publish.yml` runs daily and publishes the `pu
 4. Run the “Publish lunch calendars” workflow manually once (Actions tab) or wait for the daily schedule.
 
 The GitHub Actions workflow will use those variables on each run to generate and publish calendars for your district.
+
+## Credit
+Credit to original author <a href="https://www.reddit.com/user/georgehotelling/">George H</a>.
