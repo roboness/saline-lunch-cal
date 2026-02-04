@@ -25,7 +25,7 @@ jobs:
 
       - name: Generate calendars
         env:
-          NUTRISLICE_DISTRICT: ${{ vars.NUTRISLICE_DISTRICT || 'salineschools' }}
+          NUTRISLICE_DISTRICT: ${{ vars.NUTRISLICE_DISTRICT || 'a2schools' }}
           NUTRISLICE_MENU_TYPE: ${{ vars.NUTRISLICE_MENU_TYPE || 'lunch' }}
           NUTRISLICE_DAYS_AHEAD: ${{ vars.NUTRISLICE_DAYS_AHEAD || '28' }}
         run: python generate_ics.py
