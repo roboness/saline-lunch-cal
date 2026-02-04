@@ -9,7 +9,7 @@ from typing import Iterable, List
 
 import requests
 
-DEFAULT_DISTRICT = os.getenv("NUTRISLICE_DISTRICT", "a2schools")
+DEFAULT_DISTRICT = os.getenv("NUTRISLICE_DISTRICT", "salineschools")
 DEFAULT_MENU_TYPE = os.getenv("NUTRISLICE_MENU_TYPE", "lunch")
 DEFAULT_DAYS_AHEAD = int(os.getenv("NUTRISLICE_DAYS_AHEAD", "28"))
 
