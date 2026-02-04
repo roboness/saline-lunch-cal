@@ -13,19 +13,16 @@ DEFAULT_DISTRICT = os.getenv("NUTRISLICE_DISTRICT", "a2schools")
 DEFAULT_MENU_TYPE = os.getenv("NUTRISLICE_MENU_TYPE", "lunch")
 DEFAULT_DAYS_AHEAD = int(os.getenv("NUTRISLICE_DAYS_AHEAD", "28"))
 
-
 @dataclasses.dataclass(frozen=True)
 class School:
     slug: str
     name: str
-
 
 @dataclasses.dataclass(frozen=True)
 class MenuDay:
     date: dt.date
     entrees: List[str]
     foods: List[str]
-
 
 def _escape_ics(text: str) -> str:
     return (
@@ -35,13 +32,11 @@ def _escape_ics(text: str) -> str:
         .replace("\n", "\\n")
     )
 
-
 def _daterange(start: dt.date, end: dt.date) -> Iterable[dt.date]:
     current = start
     while current <= end:
         yield current
         current += dt.timedelta(days=1)
-
 
 def _week_starts(start: dt.date, end: dt.date) -> Iterable[dt.date]:
     current = start - dt.timedelta(days=start.weekday())
@@ -403,8 +398,8 @@ def render_index(
         </ul>
       </section>
       <footer>
-        Feedback? <a href="https://github.com/georgeh/ann-arbor-lunch-cal/issues/new">Submit an issue</a>
-        or <a href="https://a2mi.social/@george">contact me on Mastodon</a>.
+        Feedback? <a href="https://github.com/georgeh/ann-arbor-lunch-cal/issues/new">Submit an issue</a>.<br/>
+        Credit to original author <a href="https://www.reddit.com/user/georgehotelling/">George H</a>.
       </footer>
     </main>
     <script>
