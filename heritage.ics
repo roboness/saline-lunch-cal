@@ -6,78 +6,71 @@ METHOD:PUBLISH
 X-WR-CALNAME:Heritage School Lunch Menu
 X-WR-CALDESC:Lunch menus for Heritage School.
 BEGIN:VEVENT
-UID:heritage-2026-02-11@salineschools
-DTSTAMP:20260211T215135Z
-DTSTART;VALUE=DATE:20260211
-SUMMARY:Whole Grain French Toast Sticks
-DESCRIPTION:Full menu:\nWhole Grain French Toast Sticks\nTurkey Sausage Link\nSyrup\nHash Brown Patty\nMuffin\, Goldfish & Yogurt Fun Lunch\nAssorted Fruit Juice\nAssorted Chilled Fruit\nFresh Whole Fruit\nRomaine Lettuce\nBaby Carrots & Celery Sticks\nCitrus Kidney & Garbanzo Bean Salad\nKetchup Packet\nMustard Packet\nMayonnaise\nRanch Dressing\n1% Low-fat Milk\nChocolate Low Fat Milk
-END:VEVENT
-BEGIN:VEVENT
 UID:heritage-2026-02-12@salineschools
-DTSTAMP:20260211T215135Z
+DTSTAMP:20260212T210539Z
 DTSTART;VALUE=DATE:20260212
 SUMMARY:Classic Chicken Sandwich
 DESCRIPTION:Full menu:\nClassic Chicken Sandwich\nWaffle Fries\nMuffin\, Goldfish & Yogurt Fun Lunch\nAssorted Fruit Juice\nAssorted Chilled Fruit\nFresh Whole Fruit\nRomaine Lettuce\nBaby Carrots & Celery Sticks\nCitrus Kidney & Garbanzo Bean Salad\nKetchup Packet\nMustard Packet\nMayonnaise\nRanch Dressing\n1% Low-fat Milk\nChocolate Low Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:heritage-2026-02-17@salineschools
-DTSTAMP:20260211T215135Z
+DTSTAMP:20260212T210539Z
 DTSTART;VALUE=DATE:20260217
 SUMMARY:Fiestada Pizza
 DESCRIPTION:Full menu:\nFiestada Pizza\nNachos\, Cheese\, & Salsa Fun Lunch\nCheddar Goldfish Crackers\nAssorted Fruit Juice\nAssorted Chilled Fruit\nFresh Whole Fruit\nCorn & Black Bean Salsa Salad\nSliced Cucumbers\nKetchup Packet\nMustard Packet\nMayonnaise\nRanch Dressing\n1% Low-fat Milk\nChocolate Low Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:heritage-2026-02-18@salineschools
-DTSTAMP:20260211T215135Z
+DTSTAMP:20260212T210539Z
 DTSTART;VALUE=DATE:20260218
 SUMMARY:Mini Maple Pancakes
 DESCRIPTION:Full menu:\nMini Maple Pancakes\nTurkey Sausage Link\nNachos\, Cheese\, & Salsa Fun Lunch\nCheddar Goldfish Crackers\nAssorted Fruit Juice\nAssorted Chilled Fruit\nFresh Whole Fruit\nCorn & Black Bean Salsa Salad\nSliced Cucumbers\nKetchup Packet\nMustard Packet\nMayonnaise\nRanch Dressing\n1% Low-fat Milk\nChocolate Low Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:heritage-2026-02-19@salineschools
-DTSTAMP:20260211T215135Z
+DTSTAMP:20260212T210539Z
 DTSTART;VALUE=DATE:20260219
 SUMMARY:Mashed Potato & Chicken Bowl
 DESCRIPTION:Full menu:\nMashed Potato & Chicken Bowl\nDinner Roll\nNachos\, Cheese\, & Salsa Fun Lunch\nCheddar Goldfish Crackers\nAssorted Fruit Juice\nAssorted Chilled Fruit\nFresh Whole Fruit\nCorn & Black Bean Salsa Salad\nSliced Cucumbers\nKetchup Packet\nMustard Packet\nMayonnaise\nRanch Dressing\n1% Low-fat Milk\nChocolate Low Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:heritage-2026-02-20@salineschools
-DTSTAMP:20260211T215135Z
+DTSTAMP:20260212T210539Z
 DTSTART;VALUE=DATE:20260220
 SUMMARY:Pepperoni Pizza
 DESCRIPTION:Full menu:\nPepperoni Pizza\nBroccoli\nCheese Pizza\nNachos\, Cheese\, & Salsa Fun Lunch\nCheddar Goldfish Crackers\nAssorted Fruit Juice\nAssorted Chilled Fruit\nFresh Whole Fruit\nCorn & Black Bean Salsa Salad\nSliced Cucumbers\nKetchup Packet\nMustard Packet\nMayonnaise\nRanch Dressing\n1% Low-fat Milk\nChocolate Low Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:heritage-2026-02-23@salineschools
-DTSTAMP:20260211T215135Z
+DTSTAMP:20260212T210539Z
 DTSTART;VALUE=DATE:20260223
 SUMMARY:Bacon Cheeseburger
 DESCRIPTION:Full menu:\nBacon Cheeseburger\nFrench Fries\nBagel\, Egg & Cream Cheese Fun lunch\nAssorted Fruit Juice\nAssorted Chilled Fruit\nFresh Whole Fruit\nRomaine Lettuce\nBaby Carrots & Celery Sticks\nCitrus Kidney & Garbanzo Bean Salad\nCorn Salad with Ranch\nBroccoli\nKetchup Packet\nMustard Packet\nMayonnaise\nRanch Dressing\n1% Low-fat Milk\nChocolate Low Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:heritage-2026-02-24@salineschools
-DTSTAMP:20260211T215135Z
+DTSTAMP:20260212T210539Z
 DTSTART;VALUE=DATE:20260224
 SUMMARY:Beef Walking Tacos
 DESCRIPTION:Full menu:\nBeef Walking Tacos\nBagel\, Egg & Cream Cheese Fun lunch\nAssorted Fruit Juice\nAssorted Chilled Fruit\nFresh Whole Fruit\nRomaine Lettuce\nBaby Carrots & Celery Sticks\nCitrus Kidney & Garbanzo Bean Salad\nCorn Salad with Ranch\nBroccoli\nKetchup Packet\nMustard Packet\nMayonnaise\nRanch Dressing\n1% Low-fat Milk\nChocolate Low Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:heritage-2026-02-25@salineschools
-DTSTAMP:20260211T215135Z
+DTSTAMP:20260212T210539Z
 DTSTART;VALUE=DATE:20260225
 SUMMARY:Whole Grain French Toast Sticks
 DESCRIPTION:Full menu:\nWhole Grain French Toast Sticks\nTurkey Sausage Link\nHash Brown Patty\nBagel\, Egg & Cream Cheese Fun lunch\nAssorted Fruit Juice\nAssorted Chilled Fruit\nFresh Whole Fruit\nRomaine Lettuce\nBaby Carrots & Celery Sticks\nCitrus Kidney & Garbanzo Bean Salad\nCorn Salad with Ranch\nBroccoli\nKetchup Packet\nMustard Packet\nMayonnaise\nRanch Dressing\n1% Low-fat Milk\nChocolate Low Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:heritage-2026-02-26@salineschools
-DTSTAMP:20260211T215135Z
+DTSTAMP:20260212T210539Z
 DTSTART;VALUE=DATE:20260226
 SUMMARY:Jumbo Whole Muscle Chicken Tenders
 DESCRIPTION:Full menu:\nJumbo Whole Muscle Chicken Tenders\nDinner Roll\nSweet Potato Fries\nBagel\, Egg & Cream Cheese Fun lunch\nAssorted Fruit Juice\nAssorted Chilled Fruit\nFresh Whole Fruit\nRomaine Lettuce\nBaby Carrots & Celery Sticks\nCitrus Kidney & Garbanzo Bean Salad\nCorn Salad with Ranch\nBroccoli\nKetchup Packet\nMustard Packet\nMayonnaise\nRanch Dressing\n1% Low-fat Milk\nChocolate Low Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:heritage-2026-02-27@salineschools
-DTSTAMP:20260211T215135Z
+DTSTAMP:20260212T210539Z
 DTSTART;VALUE=DATE:20260227
 SUMMARY:Pepperoni Pizza
 DESCRIPTION:Full menu:\nPepperoni Pizza\nCheese Pizza\nBagel\, Egg & Cream Cheese Fun lunch\nAssorted Fruit Juice\nAssorted Chilled Fruit\nFresh Whole Fruit\nRomaine Lettuce\nBaby Carrots & Celery Sticks\nCitrus Kidney & Garbanzo Bean Salad\nCorn Salad with Ranch\nBroccoli\nKetchup Packet\nMustard Packet\nMayonnaise\nRanch Dressing\n1% Low-fat Milk\nChocolate Low Fat Milk
