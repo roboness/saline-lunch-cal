@@ -7,49 +7,49 @@ X-WR-CALNAME:Pooh Corner GSRP Lunch Menu
 X-WR-CALDESC:Lunch menus for Pooh Corner GSRP.
 BEGIN:VEVENT
 UID:pooh-corner-2026-02-17@salineschools
-DTSTAMP:20260213T215332Z
+DTSTAMP:20260214T205425Z
 DTSTART;VALUE=DATE:20260217
 SUMMARY:Fiestada Pizza
 DESCRIPTION:Full menu:\nFiestada Pizza\nSeasoned Corn\nAssorted Chilled Fruit\n1% Low-fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:pooh-corner-2026-02-18@salineschools
-DTSTAMP:20260213T215332Z
+DTSTAMP:20260214T205425Z
 DTSTART;VALUE=DATE:20260218
 SUMMARY:Mini Maple Pancakes
 DESCRIPTION:Full menu:\nMini Maple Pancakes\nTurkey Sausage Link\nTater Tots\nAssorted Chilled Fruit\n1% Low-fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:pooh-corner-2026-02-19@salineschools
-DTSTAMP:20260213T215332Z
+DTSTAMP:20260214T205425Z
 DTSTART;VALUE=DATE:20260219
 SUMMARY:Mashed Potato & Chicken Bowl
 DESCRIPTION:Full menu:\nMashed Potato & Chicken Bowl\nAssorted Chilled Fruit\n1% Low-fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:pooh-corner-2026-02-23@salineschools
-DTSTAMP:20260213T215332Z
+DTSTAMP:20260214T205425Z
 DTSTART;VALUE=DATE:20260223
 SUMMARY:Bacon Cheeseburger
 DESCRIPTION:Full menu:\nBacon Cheeseburger\nFrench Fries\nAssorted Chilled Fruit\n1% Low-fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:pooh-corner-2026-02-24@salineschools
-DTSTAMP:20260213T215332Z
+DTSTAMP:20260214T205425Z
 DTSTART;VALUE=DATE:20260224
 SUMMARY:Beef Taco Meat
 DESCRIPTION:Full menu:\nBeef Taco Meat\nUltimate Cheddar Cheese Dip Cups\nTortilla Chips\nSeasoned Black Beans\nAssorted Chilled Fruit\n1% Low-fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:pooh-corner-2026-02-25@salineschools
-DTSTAMP:20260213T215332Z
+DTSTAMP:20260214T205425Z
 DTSTART;VALUE=DATE:20260225
 SUMMARY:Mini  French Toast
 DESCRIPTION:Full menu:\nMini  French Toast\nTurkey Sausage Link\nHash Brown Patty\nAssorted Chilled Fruit\n1% Low-fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:pooh-corner-2026-02-26@salineschools
-DTSTAMP:20260213T215332Z
+DTSTAMP:20260214T205425Z
 DTSTART;VALUE=DATE:20260226
 SUMMARY:Jumbo Whole Muscle Chicken Tenders
 DESCRIPTION:Full menu:\nJumbo Whole Muscle Chicken Tenders\nDinner Roll\nSweet Potato Fries\nAssorted Chilled Fruit\n1% Low-fat Milk

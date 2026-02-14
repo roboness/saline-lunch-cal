@@ -7,63 +7,63 @@ X-WR-CALNAME:Pooh Corner Lunch Menu
 X-WR-CALDESC:Lunch menus for Pooh Corner.
 BEGIN:VEVENT
 UID:pooh-corner-2-2026-02-17@salineschools
-DTSTAMP:20260213T215331Z
+DTSTAMP:20260214T205424Z
 DTSTART;VALUE=DATE:20260217
 SUMMARY:Fiestada Pizza
 DESCRIPTION:Full menu:\nFiestada Pizza\nCorn\nAssorted Chilled Fruit\n1% Low-fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:pooh-corner-2-2026-02-18@salineschools
-DTSTAMP:20260213T215331Z
+DTSTAMP:20260214T205424Z
 DTSTART;VALUE=DATE:20260218
 SUMMARY:Mini Maple Pancakes
 DESCRIPTION:Full menu:\nMini Maple Pancakes\nTurkey Sausage Link\nHash Brown Patty\nAssorted Chilled Fruit\n1% Low-fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:pooh-corner-2-2026-02-19@salineschools
-DTSTAMP:20260213T215331Z
+DTSTAMP:20260214T205424Z
 DTSTART;VALUE=DATE:20260219
 SUMMARY:Mashed Potato & Chicken Bowl
 DESCRIPTION:Full menu:\nMashed Potato & Chicken Bowl\nDinner Roll\nAssorted Chilled Fruit\n1% Low-fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:pooh-corner-2-2026-02-20@salineschools
-DTSTAMP:20260213T215331Z
+DTSTAMP:20260214T205424Z
 DTSTART;VALUE=DATE:20260220
 SUMMARY:Cheese Pizza
 DESCRIPTION:Full menu:\nCheese Pizza\nBroccoli\nPepperoni Pizza\nAssorted Chilled Fruit\n1% Low-fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:pooh-corner-2-2026-02-23@salineschools
-DTSTAMP:20260213T215331Z
+DTSTAMP:20260214T205424Z
 DTSTART;VALUE=DATE:20260223
 SUMMARY:Bacon Cheeseburger
 DESCRIPTION:Full menu:\nBacon Cheeseburger\nSeasoned Broccoli\nAssorted Chilled Fruit\n1% Low-fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:pooh-corner-2-2026-02-24@salineschools
-DTSTAMP:20260213T215331Z
+DTSTAMP:20260214T205424Z
 DTSTART;VALUE=DATE:20260224
 SUMMARY:Beef Walking Tacos
 DESCRIPTION:Full menu:\nBeef Walking Tacos\nSeasoned Black Beans\nAssorted Chilled Fruit\n1% Low-fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:pooh-corner-2-2026-02-25@salineschools
-DTSTAMP:20260213T215331Z
+DTSTAMP:20260214T205424Z
 DTSTART;VALUE=DATE:20260225
 SUMMARY:Mini  French Toast
 DESCRIPTION:Full menu:\nMini  French Toast\nTurkey Sausage Link\nHash Brown Patty\nAssorted Chilled Fruit\n1% Low-fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:pooh-corner-2-2026-02-26@salineschools
-DTSTAMP:20260213T215331Z
+DTSTAMP:20260214T205424Z
 DTSTART;VALUE=DATE:20260226
 SUMMARY:Jumbo Whole Muscle Chicken Tenders
 DESCRIPTION:Full menu:\nJumbo Whole Muscle Chicken Tenders\nDinner Roll\nSweet Potato Fries\nAssorted Chilled Fruit\n1% Low-fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:pooh-corner-2-2026-02-27@salineschools
-DTSTAMP:20260213T215331Z
+DTSTAMP:20260214T205424Z
 DTSTART;VALUE=DATE:20260227
 SUMMARY:Cheese Pizza
 DESCRIPTION:Full menu:\nCheese Pizza\nSeasoned Broccoli\nPepperoni Pizza\nAssorted Chilled Fruit\n1% Low-fat Milk
