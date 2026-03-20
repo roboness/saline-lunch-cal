@@ -6,64 +6,57 @@ METHOD:PUBLISH
 X-WR-CALNAME:Pooh Corner GSRP Lunch Menu
 X-WR-CALDESC:Lunch menus for Pooh Corner GSRP.
 BEGIN:VEVENT
-UID:pooh-corner-2026-03-19@salineschools
-DTSTAMP:20260319T203329Z
-DTSTART;VALUE=DATE:20260319
-SUMMARY:Mashed Potato & Chicken Bowl
-DESCRIPTION:Full menu:\nMashed Potato & Chicken Bowl\nAssorted Chilled Fruit\n1% Low-fat Milk
-END:VEVENT
-BEGIN:VEVENT
 UID:pooh-corner-2026-03-23@salineschools
-DTSTAMP:20260319T203329Z
+DTSTAMP:20260320T202824Z
 DTSTART;VALUE=DATE:20260323
 SUMMARY:Bacon Cheeseburger
 DESCRIPTION:Full menu:\nBacon Cheeseburger\nFrench Fries\nAssorted Chilled Fruit\n1% Low-fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:pooh-corner-2026-03-24@salineschools
-DTSTAMP:20260319T203329Z
+DTSTAMP:20260320T202824Z
 DTSTART;VALUE=DATE:20260324
 SUMMARY:Beef Taco Meat
 DESCRIPTION:Full menu:\nBeef Taco Meat\nCreamy Cheddar Cheese Sauce\nTortilla Chips\nSeasoned Black Beans\nAssorted Chilled Fruit\n1% Low-fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:pooh-corner-2026-03-25@salineschools
-DTSTAMP:20260319T203329Z
+DTSTAMP:20260320T202824Z
 DTSTART;VALUE=DATE:20260325
 SUMMARY:Mini  French Toast
 DESCRIPTION:Full menu:\nMini  French Toast\nTurkey Sausage Link\nHash Brown Patty\nAssorted Chilled Fruit\n1% Low-fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:pooh-corner-2026-03-26@salineschools
-DTSTAMP:20260319T203329Z
+DTSTAMP:20260320T202824Z
 DTSTART;VALUE=DATE:20260326
 SUMMARY:Jumbo Whole Muscle Chicken Tenders
 DESCRIPTION:Full menu:\nJumbo Whole Muscle Chicken Tenders\nDinner Roll\nSweet Potato Fries\nAssorted Chilled Fruit\n1% Low-fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:pooh-corner-2026-03-30@salineschools
-DTSTAMP:20260319T203329Z
+DTSTAMP:20260320T202824Z
 DTSTART;VALUE=DATE:20260330
 SUMMARY:Tempura Style Chicken Nuggets
 DESCRIPTION:Full menu:\nTempura Style Chicken Nuggets\nDinner Roll\nBarbecue Sauce\nBaked Beans\nAssorted Chilled Fruit\n1% Low-fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:pooh-corner-2026-03-31@salineschools
-DTSTAMP:20260319T203329Z
+DTSTAMP:20260320T202824Z
 DTSTART;VALUE=DATE:20260331
 SUMMARY:Turkey Ham & Cheese on Pretzel Roll
 DESCRIPTION:Full menu:\nTurkey Ham & Cheese on Pretzel Roll\nCorn\nAssorted Chilled Fruit\n1% Low-fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:pooh-corner-2026-04-01@salineschools
-DTSTAMP:20260319T203329Z
+DTSTAMP:20260320T202824Z
 DTSTART;VALUE=DATE:20260401
 SUMMARY:Whole Grain Waffle
 DESCRIPTION:Full menu:\nWhole Grain Waffle\nTurkey Sausage Link\nSyrup\nTater Tots\nAssorted Chilled Fruit\n1% Low-fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:pooh-corner-2026-04-02@salineschools
-DTSTAMP:20260319T203329Z
+DTSTAMP:20260320T202824Z
 DTSTART;VALUE=DATE:20260402
 SUMMARY:Mini Turkey Corn Dogs
 DESCRIPTION:Full menu:\nMini Turkey Corn Dogs\nWaffle Fries\nAssorted Chilled Fruit\n1% Low-fat Milk
