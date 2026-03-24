@@ -6,50 +6,43 @@ METHOD:PUBLISH
 X-WR-CALNAME:Pleasant Ridge ES Lunch Menu
 X-WR-CALDESC:Lunch menus for Pleasant Ridge ES.
 BEGIN:VEVENT
-UID:pleasant-ridge-2026-03-23@salineschools
-DTSTAMP:20260323T203510Z
-DTSTART;VALUE=DATE:20260323
-SUMMARY:Turkey Kielbasa
-DESCRIPTION:Full menu:\nTurkey Kielbasa\nMini Potato & Cheese Pierogies\nBagel\, Egg & Cream Cheese Fun lunch\nAssorted Fruit Juice\nAssorted Chilled Fruit\nFresh Whole Fruit\nRomaine Lettuce\nBaby Carrots & Celery Sticks\nCitrus Kidney & Garbanzo Bean Salad\nCorn Salad with Ranch\nBroccoli\nKetchup Packet\nMustard Packet\nMayonnaise\nRanch Dressing\n1% Low-fat Milk\nChocolate Low Fat Milk
-END:VEVENT
-BEGIN:VEVENT
 UID:pleasant-ridge-2026-03-24@salineschools
-DTSTAMP:20260323T203510Z
+DTSTAMP:20260324T203754Z
 DTSTART;VALUE=DATE:20260324
 SUMMARY:Ginger Soy Pork Yakisoba Bowl
 DESCRIPTION:Full menu:\nGinger Soy Pork Yakisoba Bowl\nBagel\, Egg & Cream Cheese Fun lunch\nAssorted Fruit Juice\nAssorted Chilled Fruit\nFresh Whole Fruit\nRomaine Lettuce\nBaby Carrots & Celery Sticks\nCitrus Kidney & Garbanzo Bean Salad\nCorn Salad with Ranch\nBroccoli\nKetchup Packet\nMustard Packet\nMayonnaise\nRanch Dressing\n1% Low-fat Milk\nChocolate Low Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:pleasant-ridge-2026-03-25@salineschools
-DTSTAMP:20260323T203510Z
+DTSTAMP:20260324T203754Z
 DTSTART;VALUE=DATE:20260325
 SUMMARY:Greek Vanilla Yogurt
 DESCRIPTION:Full menu:\nGreek Vanilla Yogurt\nWhole Grain Croissant\nMango Chunks\nSliced Fresh Strawberries\nBlueberries\nBagel\, Egg & Cream Cheese Fun lunch\nAssorted Fruit Juice\nAssorted Chilled Fruit\nFresh Whole Fruit\nRomaine Lettuce\nBaby Carrots & Celery Sticks\nCitrus Kidney & Garbanzo Bean Salad\nCorn Salad with Ranch\nBroccoli\nKetchup Packet\nMustard Packet\nMayonnaise\nRanch Dressing\n1% Low-fat Milk\nChocolate Low Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:pleasant-ridge-2026-03-26@salineschools
-DTSTAMP:20260323T203510Z
+DTSTAMP:20260324T203754Z
 DTSTART;VALUE=DATE:20260326
 SUMMARY:Chicken & Cheese Quesadilla
 DESCRIPTION:Full menu:\nChicken & Cheese Quesadilla\nCorn & Black Bean Salsa\nClassic Guacamole\nCheese Quesadilla\nBagel\, Egg & Cream Cheese Fun lunch\nAssorted Fruit Juice\nAssorted Chilled Fruit\nFresh Whole Fruit\nRomaine Lettuce\nBaby Carrots & Celery Sticks\nCitrus Kidney & Garbanzo Bean Salad\nCorn Salad with Ranch\nBroccoli\nKetchup Packet\nMustard Packet\nMayonnaise\nRanch Dressing\n1% Low-fat Milk\nChocolate Low Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:pleasant-ridge-2026-03-27@salineschools
-DTSTAMP:20260323T203510Z
+DTSTAMP:20260324T203754Z
 DTSTART;VALUE=DATE:20260327
 SUMMARY:Mini Cheese Ravioli with Marinara Sauce
 DESCRIPTION:Full menu:\nMini Cheese Ravioli with Marinara Sauce\nWhole Grain Toasted Garlic Bread\nBagel\, Egg & Cream Cheese Fun lunch\nAssorted Fruit Juice\nAssorted Chilled Fruit\nFresh Whole Fruit\nRomaine Lettuce\nBaby Carrots & Celery Sticks\nCitrus Kidney & Garbanzo Bean Salad\nCorn Salad with Ranch\nBroccoli\nKetchup Packet\nMustard Packet\nMayonnaise\nRanch Dressing\n1% Low-fat Milk\nChocolate Low Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:pleasant-ridge-2026-03-30@salineschools
-DTSTAMP:20260323T203510Z
+DTSTAMP:20260324T203754Z
 DTSTART;VALUE=DATE:20260330
 SUMMARY:Chicken Nuggets
 DESCRIPTION:Full menu:\nChicken Nuggets\nDinner Roll\nBBQ Sauce\nVegetarian Baked Beans\nMuffin\, Goldfish & Yogurt Fun Lunch\nAssorted Fruit Juice\nAssorted Chilled Fruit\nFresh Whole Fruit\nCorn & Black Bean Salsa Salad\nSliced Cucumbers\nFresh Broccoli Florets\nKetchup Packet\nMustard Packet\nMayonnaise\nRanch Dressing\n1% Low-fat Milk\nChocolate Low Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:pleasant-ridge-2026-03-31@salineschools
-DTSTAMP:20260323T203510Z
+DTSTAMP:20260324T203754Z
 DTSTART;VALUE=DATE:20260331
 SUMMARY:Turkey Ham & Cheese on Pretzel Roll
 DESCRIPTION:Full menu:\nTurkey Ham & Cheese on Pretzel Roll\nSeasoned Corn\nMuffin\, Goldfish & Yogurt Fun Lunch\nAssorted Fruit Juice\nAssorted Chilled Fruit\nFresh Whole Fruit\nCorn & Black Bean Salsa Salad\nSliced Cucumbers\nFresh Broccoli Florets\nKetchup Packet\nMustard Packet\nMayonnaise\nRanch Dressing\n1% Low-fat Milk\nChocolate Low Fat Milk
