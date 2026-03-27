@@ -6,120 +6,113 @@ METHOD:PUBLISH
 X-WR-CALNAME:Pooh Corner GSRP Lunch Menu
 X-WR-CALDESC:Lunch menus for Pooh Corner GSRP.
 BEGIN:VEVENT
-UID:pooh-corner-2026-03-26@salineschools
-DTSTAMP:20260326T203302Z
-DTSTART;VALUE=DATE:20260326
-SUMMARY:Jumbo Whole Muscle Chicken Tenders
-DESCRIPTION:Full menu:\nJumbo Whole Muscle Chicken Tenders\nDinner Roll\nSweet Potato Fries\nAssorted Chilled Fruit\n1% Low-fat Milk
-END:VEVENT
-BEGIN:VEVENT
 UID:pooh-corner-2026-03-30@salineschools
-DTSTAMP:20260326T203302Z
+DTSTAMP:20260327T203445Z
 DTSTART;VALUE=DATE:20260330
 SUMMARY:Tempura Style Chicken Nuggets
 DESCRIPTION:Full menu:\nTempura Style Chicken Nuggets\nDinner Roll\nBarbecue Sauce\nBaked Beans\nAssorted Chilled Fruit\n1% Low-fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:pooh-corner-2026-03-31@salineschools
-DTSTAMP:20260326T203302Z
+DTSTAMP:20260327T203445Z
 DTSTART;VALUE=DATE:20260331
 SUMMARY:Turkey Ham & Cheese on Pretzel Roll
 DESCRIPTION:Full menu:\nTurkey Ham & Cheese on Pretzel Roll\nCorn\nAssorted Chilled Fruit\n1% Low-fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:pooh-corner-2026-04-01@salineschools
-DTSTAMP:20260326T203302Z
+DTSTAMP:20260327T203445Z
 DTSTART;VALUE=DATE:20260401
 SUMMARY:Whole Grain Waffle
 DESCRIPTION:Full menu:\nWhole Grain Waffle\nTurkey Sausage Link\nSyrup\nTater Tots\nAssorted Chilled Fruit\n1% Low-fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:pooh-corner-2026-04-02@salineschools
-DTSTAMP:20260326T203302Z
+DTSTAMP:20260327T203445Z
 DTSTART;VALUE=DATE:20260402
 SUMMARY:Mini Turkey Corn Dogs
 DESCRIPTION:Full menu:\nMini Turkey Corn Dogs\nWaffle Fries\nAssorted Chilled Fruit\n1% Low-fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:pooh-corner-2026-04-06@salineschools
-DTSTAMP:20260326T203302Z
+DTSTAMP:20260327T203445Z
 DTSTART;VALUE=DATE:20260406
 SUMMARY:Macaroni and Cheese
 DESCRIPTION:Full menu:\nMacaroni and Cheese\nDinner Roll\nBroccoli\nAssorted Chilled Fruit\n1% Low-fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:pooh-corner-2026-04-07@salineschools
-DTSTAMP:20260326T203302Z
+DTSTAMP:20260327T203445Z
 DTSTART;VALUE=DATE:20260407
 SUMMARY:Cheese Stuffed Breadsticks
 DESCRIPTION:Full menu:\nCheese Stuffed Breadsticks\nBaby Carrots\nAssorted Chilled Fruit\n1% Low-fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:pooh-corner-2026-04-08@salineschools
-DTSTAMP:20260326T203302Z
+DTSTAMP:20260327T203445Z
 DTSTART;VALUE=DATE:20260408
 SUMMARY:Whole Grain French Toast Sticks
 DESCRIPTION:Full menu:\nWhole Grain French Toast Sticks\nTurkey Sausage Link\nSyrup\nHash Brown Patty\nAssorted Chilled Fruit\n1% Low-fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:pooh-corner-2026-04-09@salineschools
-DTSTAMP:20260326T203302Z
+DTSTAMP:20260327T203445Z
 DTSTART;VALUE=DATE:20260409
 SUMMARY:Cheese Pizza
 DESCRIPTION:Full menu:\nCheese Pizza\nWaffle Fries\nAssorted Chilled Fruit\n1% Low-fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:pooh-corner-2026-04-13@salineschools
-DTSTAMP:20260326T203302Z
+DTSTAMP:20260327T203445Z
 DTSTART;VALUE=DATE:20260413
 SUMMARY:BBQ Rib-B-Q Sandwich
 DESCRIPTION:Full menu:\nBBQ Rib-B-Q Sandwich\nVegetarian Baked Beans\nAssorted Chilled Fruit\n1% Low-fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:pooh-corner-2026-04-14@salineschools
-DTSTAMP:20260326T203302Z
+DTSTAMP:20260327T203445Z
 DTSTART;VALUE=DATE:20260414
 SUMMARY:Fiestada Pizza
 DESCRIPTION:Full menu:\nFiestada Pizza\nSeasoned Corn\nAssorted Chilled Fruit\n1% Low-fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:pooh-corner-2026-04-15@salineschools
-DTSTAMP:20260326T203302Z
+DTSTAMP:20260327T203445Z
 DTSTART;VALUE=DATE:20260415
 SUMMARY:Mini Maple Pancakes
 DESCRIPTION:Full menu:\nMini Maple Pancakes\nTurkey Sausage Link\nTater Tots\nAssorted Chilled Fruit\n1% Low-fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:pooh-corner-2026-04-16@salineschools
-DTSTAMP:20260326T203302Z
+DTSTAMP:20260327T203445Z
 DTSTART;VALUE=DATE:20260416
 SUMMARY:Cheese Pizza
 DESCRIPTION:Full menu:\nCheese Pizza\nCorn\nAssorted Chilled Fruit\n1% Low-fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:pooh-corner-2026-04-20@salineschools
-DTSTAMP:20260326T203302Z
+DTSTAMP:20260327T203445Z
 DTSTART;VALUE=DATE:20260420
 SUMMARY:Bacon Cheeseburger
 DESCRIPTION:Full menu:\nBacon Cheeseburger\nFrench Fries\nAssorted Chilled Fruit\n1% Low-fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:pooh-corner-2026-04-21@salineschools
-DTSTAMP:20260326T203302Z
+DTSTAMP:20260327T203445Z
 DTSTART;VALUE=DATE:20260421
 SUMMARY:Beef Taco Meat
 DESCRIPTION:Full menu:\nBeef Taco Meat\nCreamy Cheddar Cheese Sauce\nTortilla Chips\nSeasoned Black Beans\nAssorted Chilled Fruit\n1% Low-fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:pooh-corner-2026-04-22@salineschools
-DTSTAMP:20260326T203302Z
+DTSTAMP:20260327T203445Z
 DTSTART;VALUE=DATE:20260422
 SUMMARY:Mini  French Toast
 DESCRIPTION:Full menu:\nMini  French Toast\nTurkey Sausage Link\nHash Brown Patty\nAssorted Chilled Fruit\n1% Low-fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:pooh-corner-2026-04-23@salineschools
-DTSTAMP:20260326T203302Z
+DTSTAMP:20260327T203445Z
 DTSTART;VALUE=DATE:20260423
 SUMMARY:Cheese Pizza
 DESCRIPTION:Full menu:\nCheese Pizza\nSweet Potato Fries\nAssorted Chilled Fruit\n1% Low-fat Milk
