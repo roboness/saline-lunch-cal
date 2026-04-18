@@ -6,80 +6,143 @@ METHOD:PUBLISH
 X-WR-CALNAME:Woodland Meadows ES Lunch Menu
 X-WR-CALDESC:Lunch menus for Woodland Meadows ES.
 BEGIN:VEVENT
-UID:woodlands-meadow-2026-04-17@salineschools
-DTSTAMP:20260417T204048Z
-DTSTART;VALUE=DATE:20260417
-SUMMARY:Pepperoni Pizza
-DESCRIPTION:Full menu:\nPepperoni Pizza\nBroccoli\nCheese Pizza\nNachos\, Cheese\, & Salsa Fun Lunch\nCheddar Goldfish Crackers\nAssorted Fruit Juice\nAssorted Chilled Fruit\nFresh Whole Fruit\nCorn & Black Bean Salsa Salad\nSliced Cucumbers\nKetchup Packet\nMustard Packet\nMayonnaise\nRanch Dressing\n1% Low-fat Milk\nChocolate Low Fat Milk
-END:VEVENT
-BEGIN:VEVENT
 UID:woodlands-meadow-2026-04-20@salineschools
-DTSTAMP:20260417T204048Z
+DTSTAMP:20260418T203308Z
 DTSTART;VALUE=DATE:20260420
 SUMMARY:Bacon Cheeseburger
 DESCRIPTION:Full menu:\nBacon Cheeseburger\nFrench Fries\nBagel\, Egg & Cream Cheese Fun lunch\nAssorted Fruit Juice\nAssorted Chilled Fruit\nFresh Whole Fruit\nRomaine Lettuce\nBaby Carrots & Celery Sticks\nCitrus Kidney & Garbanzo Bean Salad\nCorn Salad with Ranch\nBroccoli\nKetchup Packet\nMustard Packet\nMayonnaise\nRanch Dressing\n1% Low-fat Milk\nChocolate Low Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:woodlands-meadow-2026-04-21@salineschools
-DTSTAMP:20260417T204048Z
+DTSTAMP:20260418T203308Z
 DTSTART;VALUE=DATE:20260421
 SUMMARY:Beef Nachos
 DESCRIPTION:Full menu:\nBeef Nachos\nBagel\, Egg & Cream Cheese Fun lunch\nAssorted Fruit Juice\nAssorted Chilled Fruit\nFresh Whole Fruit\nRomaine Lettuce\nBaby Carrots & Celery Sticks\nCitrus Kidney & Garbanzo Bean Salad\nCorn Salad with Ranch\nBroccoli\nKetchup Packet\nMustard Packet\nMayonnaise\nRanch Dressing\n1% Low-fat Milk\nChocolate Low Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:woodlands-meadow-2026-04-22@salineschools
-DTSTAMP:20260417T204048Z
+DTSTAMP:20260418T203308Z
 DTSTART;VALUE=DATE:20260422
 SUMMARY:Whole Grain French Toast Sticks
 DESCRIPTION:Full menu:\nWhole Grain French Toast Sticks\nTurkey Sausage Link\nHash Brown Patty\nBagel\, Egg & Cream Cheese Fun lunch\nAssorted Fruit Juice\nAssorted Chilled Fruit\nFresh Whole Fruit\nRomaine Lettuce\nBaby Carrots & Celery Sticks\nCitrus Kidney & Garbanzo Bean Salad\nCorn Salad with Ranch\nBroccoli\nKetchup Packet\nMustard Packet\nMayonnaise\nRanch Dressing\n1% Low-fat Milk\nChocolate Low Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:woodlands-meadow-2026-04-23@salineschools
-DTSTAMP:20260417T204048Z
+DTSTAMP:20260418T203308Z
 DTSTART;VALUE=DATE:20260423
 SUMMARY:Jumbo Whole Muscle Chicken Tenders
 DESCRIPTION:Full menu:\nJumbo Whole Muscle Chicken Tenders\nDinner Roll\nSweet Potato Fries\nBagel\, Egg & Cream Cheese Fun lunch\nAssorted Fruit Juice\nAssorted Chilled Fruit\nFresh Whole Fruit\nRomaine Lettuce\nBaby Carrots & Celery Sticks\nCitrus Kidney & Garbanzo Bean Salad\nCorn Salad with Ranch\nBroccoli\nKetchup Packet\nMustard Packet\nMayonnaise\nRanch Dressing\n1% Low-fat Milk\nChocolate Low Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:woodlands-meadow-2026-04-24@salineschools
-DTSTAMP:20260417T204048Z
+DTSTAMP:20260418T203308Z
 DTSTART;VALUE=DATE:20260424
 SUMMARY:Pepperoni Pizza
 DESCRIPTION:Full menu:\nPepperoni Pizza\nCheese Pizza\nBagel\, Egg & Cream Cheese Fun lunch\nAssorted Fruit Juice\nAssorted Chilled Fruit\nFresh Whole Fruit\nRomaine Lettuce\nBaby Carrots & Celery Sticks\nCitrus Kidney & Garbanzo Bean Salad\nCorn Salad with Ranch\nBroccoli\nKetchup Packet\nMustard Packet\nMayonnaise\nRanch Dressing\n1% Low-fat Milk\nChocolate Low Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:woodlands-meadow-2026-04-27@salineschools
-DTSTAMP:20260417T204048Z
+DTSTAMP:20260418T203308Z
 DTSTART;VALUE=DATE:20260427
 SUMMARY:Chicken Nuggets
 DESCRIPTION:Full menu:\nChicken Nuggets\nDinner Roll\nBBQ Sauce\nVegetarian Baked Beans\nMuffin\, Goldfish & Yogurt Fun Lunch\nAssorted Fruit Juice\nAssorted Chilled Fruit\nFresh Whole Fruit\nCorn & Black Bean Salsa Salad\nSliced Cucumbers\nFresh Broccoli Florets\nKetchup Packet\nMustard Packet\nMayonnaise\nRanch Dressing\n1% Low-fat Milk\nChocolate Low Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:woodlands-meadow-2026-04-28@salineschools
-DTSTAMP:20260417T204048Z
+DTSTAMP:20260418T203308Z
 DTSTART;VALUE=DATE:20260428
 SUMMARY:Turkey Ham & Cheese on Pretzel Roll
 DESCRIPTION:Full menu:\nTurkey Ham & Cheese on Pretzel Roll\nSeasoned Corn\nMuffin\, Goldfish & Yogurt Fun Lunch\nAssorted Fruit Juice\nAssorted Chilled Fruit\nFresh Whole Fruit\nCorn & Black Bean Salsa Salad\nSliced Cucumbers\nFresh Broccoli Florets\nKetchup Packet\nMustard Packet\nMayonnaise\nRanch Dressing\n1% Low-fat Milk\nChocolate Low Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:woodlands-meadow-2026-04-29@salineschools
-DTSTAMP:20260417T204048Z
+DTSTAMP:20260418T203308Z
 DTSTART;VALUE=DATE:20260429
 SUMMARY:Whole Grain Waffle
 DESCRIPTION:Full menu:\nWhole Grain Waffle\nTurkey Sausage Link\nMuffin\, Goldfish & Yogurt Fun Lunch\nAssorted Fruit Juice\nAssorted Chilled Fruit\nFresh Whole Fruit\nCorn & Black Bean Salsa Salad\nSliced Cucumbers\nFresh Broccoli Florets\nKetchup Packet\nMustard Packet\nMayonnaise\nRanch Dressing\n1% Low-fat Milk\nChocolate Low Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:woodlands-meadow-2026-04-30@salineschools
-DTSTAMP:20260417T204048Z
+DTSTAMP:20260418T203308Z
 DTSTART;VALUE=DATE:20260430
 SUMMARY:Turkey Corn Dog
 DESCRIPTION:Full menu:\nTurkey Corn Dog\nWaffle Fries\nMuffin\, Goldfish & Yogurt Fun Lunch\nAssorted Fruit Juice\nAssorted Chilled Fruit\nFresh Whole Fruit\nCorn & Black Bean Salsa Salad\nSliced Cucumbers\nFresh Broccoli Florets\nKetchup Packet\nMustard Packet\nMayonnaise\nRanch Dressing\n1% Low-fat Milk\nChocolate Low Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:woodlands-meadow-2026-05-01@salineschools
-DTSTAMP:20260417T204048Z
+DTSTAMP:20260418T203308Z
 DTSTART;VALUE=DATE:20260501
 SUMMARY:Pepperoni Pizza
 DESCRIPTION:Full menu:\nPepperoni Pizza\nCheese Pizza\nMuffin\, Goldfish & Yogurt Fun Lunch\nAssorted Fruit Juice\nAssorted Chilled Fruit\nFresh Whole Fruit\nCorn & Black Bean Salsa Salad\nSliced Cucumbers\nFresh Broccoli Florets\nKetchup Packet\nMustard Packet\nMayonnaise\nRanch Dressing\n1% Low-fat Milk\nChocolate Low Fat Milk
+END:VEVENT
+BEGIN:VEVENT
+UID:woodlands-meadow-2026-05-04@salineschools
+DTSTAMP:20260418T203308Z
+DTSTART;VALUE=DATE:20260504
+SUMMARY:Macaroni and Cheese
+DESCRIPTION:Full menu:\nMacaroni and Cheese\nDinner Roll\nBroccoli\nMuffin\, Goldfish & Yogurt Fun Lunch\nAssorted Fruit Juice\nAssorted Chilled Fruit\nFresh Whole Fruit\nRomaine Lettuce\nBaby Carrots & Celery Sticks\nCitrus Kidney & Garbanzo Bean Salad\nKetchup Packet\nMustard Packet\nMayonnaise\nRanch Dressing\n1% Low-fat Milk\nChocolate Low Fat Milk
+END:VEVENT
+BEGIN:VEVENT
+UID:woodlands-meadow-2026-05-05@salineschools
+DTSTAMP:20260418T203308Z
+DTSTART;VALUE=DATE:20260505
+SUMMARY:Cheese Stuffed Breadsticks
+DESCRIPTION:Full menu:\nCheese Stuffed Breadsticks\nPizza Sauce\nMuffin\, Goldfish & Yogurt Fun Lunch\nAssorted Fruit Juice\nAssorted Chilled Fruit\nFresh Whole Fruit\nRomaine Lettuce\nBaby Carrots & Celery Sticks\nCitrus Kidney & Garbanzo Bean Salad\nKetchup Packet\nMustard Packet\nMayonnaise\nRanch Dressing\n1% Low-fat Milk\nChocolate Low Fat Milk
+END:VEVENT
+BEGIN:VEVENT
+UID:woodlands-meadow-2026-05-06@salineschools
+DTSTAMP:20260418T203308Z
+DTSTART;VALUE=DATE:20260506
+SUMMARY:Whole Grain French Toast Sticks
+DESCRIPTION:Full menu:\nWhole Grain French Toast Sticks\nTurkey Sausage Link\nSyrup\nHash Brown Patty\nMuffin\, Goldfish & Yogurt Fun Lunch\nAssorted Fruit Juice\nAssorted Chilled Fruit\nFresh Whole Fruit\nRomaine Lettuce\nBaby Carrots & Celery Sticks\nCitrus Kidney & Garbanzo Bean Salad\nKetchup Packet\nMustard Packet\nMayonnaise\nRanch Dressing\n1% Low-fat Milk\nChocolate Low Fat Milk
+END:VEVENT
+BEGIN:VEVENT
+UID:woodlands-meadow-2026-05-07@salineschools
+DTSTAMP:20260418T203308Z
+DTSTART;VALUE=DATE:20260507
+SUMMARY:Classic Chicken Sandwich
+DESCRIPTION:Full menu:\nClassic Chicken Sandwich\nWaffle Fries\nMuffin\, Goldfish & Yogurt Fun Lunch\nAssorted Fruit Juice\nAssorted Chilled Fruit\nFresh Whole Fruit\nRomaine Lettuce\nBaby Carrots & Celery Sticks\nCitrus Kidney & Garbanzo Bean Salad\nKetchup Packet\nMustard Packet\nMayonnaise\nRanch Dressing\n1% Low-fat Milk\nChocolate Low Fat Milk
+END:VEVENT
+BEGIN:VEVENT
+UID:woodlands-meadow-2026-05-08@salineschools
+DTSTAMP:20260418T203308Z
+DTSTART;VALUE=DATE:20260508
+SUMMARY:Pepperoni Pizza
+DESCRIPTION:Full menu:\nPepperoni Pizza\nCheese Pizza\nMuffin\, Goldfish & Yogurt Fun Lunch\nAssorted Fruit Juice\nAssorted Chilled Fruit\nFresh Whole Fruit\nRomaine Lettuce\nBaby Carrots & Celery Sticks\nCitrus Kidney & Garbanzo Bean Salad\nKetchup Packet\nMustard Packet\nMayonnaise\nRanch Dressing\n1% Low-fat Milk\nChocolate Low Fat Milk
+END:VEVENT
+BEGIN:VEVENT
+UID:woodlands-meadow-2026-05-11@salineschools
+DTSTAMP:20260418T203308Z
+DTSTART;VALUE=DATE:20260511
+SUMMARY:BBQ Rib-B-Q Sandwich
+DESCRIPTION:Full menu:\nBBQ Rib-B-Q Sandwich\nVegetarian Baked Beans\nNachos\, Cheese\, & Salsa Fun Lunch\nCheddar Goldfish Crackers\nAssorted Fruit Juice\nAssorted Chilled Fruit\nFresh Whole Fruit\nCorn & Black Bean Salsa Salad\nSliced Cucumbers\nKetchup Packet\nMustard Packet\nMayonnaise\nRanch Dressing\n1% Low-fat Milk\nChocolate Low Fat Milk
+END:VEVENT
+BEGIN:VEVENT
+UID:woodlands-meadow-2026-05-12@salineschools
+DTSTAMP:20260418T203308Z
+DTSTART;VALUE=DATE:20260512
+SUMMARY:Fiestada Pizza
+DESCRIPTION:Full menu:\nFiestada Pizza\nNachos\, Cheese\, & Salsa Fun Lunch\nCheddar Goldfish Crackers\nAssorted Fruit Juice\nAssorted Chilled Fruit\nFresh Whole Fruit\nCorn & Black Bean Salsa Salad\nSliced Cucumbers\nKetchup Packet\nMustard Packet\nMayonnaise\nRanch Dressing\n1% Low-fat Milk\nChocolate Low Fat Milk
+END:VEVENT
+BEGIN:VEVENT
+UID:woodlands-meadow-2026-05-13@salineschools
+DTSTAMP:20260418T203308Z
+DTSTART;VALUE=DATE:20260513
+SUMMARY:Mini Maple Pancakes
+DESCRIPTION:Full menu:\nMini Maple Pancakes\nTurkey Sausage Link\nNachos\, Cheese\, & Salsa Fun Lunch\nCheddar Goldfish Crackers\nAssorted Fruit Juice\nAssorted Chilled Fruit\nFresh Whole Fruit\nCorn & Black Bean Salsa Salad\nSliced Cucumbers\nKetchup Packet\nMustard Packet\nMayonnaise\nRanch Dressing\n1% Low-fat Milk\nChocolate Low Fat Milk
+END:VEVENT
+BEGIN:VEVENT
+UID:woodlands-meadow-2026-05-14@salineschools
+DTSTAMP:20260418T203308Z
+DTSTART;VALUE=DATE:20260514
+SUMMARY:Mashed Potato & Chicken Bowl
+DESCRIPTION:Full menu:\nMashed Potato & Chicken Bowl\nDinner Roll\nNachos\, Cheese\, & Salsa Fun Lunch\nCheddar Goldfish Crackers\nAssorted Fruit Juice\nAssorted Chilled Fruit\nFresh Whole Fruit\nCorn & Black Bean Salsa Salad\nSliced Cucumbers\nKetchup Packet\nMustard Packet\nMayonnaise\nRanch Dressing\n1% Low-fat Milk\nChocolate Low Fat Milk
+END:VEVENT
+BEGIN:VEVENT
+UID:woodlands-meadow-2026-05-15@salineschools
+DTSTAMP:20260418T203308Z
+DTSTART;VALUE=DATE:20260515
+SUMMARY:Pepperoni Pizza
+DESCRIPTION:Full menu:\nPepperoni Pizza\nBroccoli\nCheese Pizza\nNachos\, Cheese\, & Salsa Fun Lunch\nCheddar Goldfish Crackers\nAssorted Fruit Juice\nAssorted Chilled Fruit\nFresh Whole Fruit\nCorn & Black Bean Salsa Salad\nSliced Cucumbers\nKetchup Packet\nMustard Packet\nMayonnaise\nRanch Dressing\n1% Low-fat Milk\nChocolate Low Fat Milk
 END:VEVENT
 END:VCALENDAR
