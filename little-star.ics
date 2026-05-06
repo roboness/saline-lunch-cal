@@ -6,141 +6,134 @@ METHOD:PUBLISH
 X-WR-CALNAME:Little Star Lunch Menu
 X-WR-CALDESC:Lunch menus for Little Star.
 BEGIN:VEVENT
-UID:little-star-2026-05-05@salineschools
-DTSTAMP:20260505T205932Z
-DTSTART;VALUE=DATE:20260505
-SUMMARY:Cheese Stuffed Breadsticks
-DESCRIPTION:Full menu:\nCheese Stuffed Breadsticks\nBaby Carrots\nAssorted Chilled Fruit\n1% Low-fat Milk
-END:VEVENT
-BEGIN:VEVENT
 UID:little-star-2026-05-06@salineschools
-DTSTAMP:20260505T205932Z
+DTSTAMP:20260506T210804Z
 DTSTART;VALUE=DATE:20260506
 SUMMARY:Whole Grain French Toast Sticks
 DESCRIPTION:Full menu:\nWhole Grain French Toast Sticks\nTurkey Sausage Link\nSyrup\nHash Brown Patty\nAssorted Chilled Fruit\n1% Low-fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:little-star-2026-05-07@salineschools
-DTSTAMP:20260505T205932Z
+DTSTAMP:20260506T210804Z
 DTSTART;VALUE=DATE:20260507
 SUMMARY:Classic Chicken Sandwich
 DESCRIPTION:Full menu:\nClassic Chicken Sandwich\nWaffle Fries\nAssorted Chilled Fruit\n1% Low-fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:little-star-2026-05-08@salineschools
-DTSTAMP:20260505T205932Z
+DTSTAMP:20260506T210804Z
 DTSTART;VALUE=DATE:20260508
 SUMMARY:Cheese Pizza
 DESCRIPTION:Full menu:\nCheese Pizza\nCorn\nPepperoni Pizza\nAssorted Chilled Fruit\n1% Low-fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:little-star-2026-05-11@salineschools
-DTSTAMP:20260505T205932Z
+DTSTAMP:20260506T210804Z
 DTSTART;VALUE=DATE:20260511
 SUMMARY:BBQ Rib-B-Q Sandwich
 DESCRIPTION:Full menu:\nBBQ Rib-B-Q Sandwich\nVegetarian Baked Beans\nAssorted Chilled Fruit\n1% Low-fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:little-star-2026-05-12@salineschools
-DTSTAMP:20260505T205932Z
+DTSTAMP:20260506T210804Z
 DTSTART;VALUE=DATE:20260512
 SUMMARY:Fiestada Pizza
 DESCRIPTION:Full menu:\nFiestada Pizza\nCorn\nAssorted Chilled Fruit\n1% Low-fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:little-star-2026-05-13@salineschools
-DTSTAMP:20260505T205932Z
+DTSTAMP:20260506T210804Z
 DTSTART;VALUE=DATE:20260513
 SUMMARY:Mini Maple Pancakes
 DESCRIPTION:Full menu:\nMini Maple Pancakes\nTurkey Sausage Link\nHash Brown Patty\nAssorted Chilled Fruit\n1% Low-fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:little-star-2026-05-14@salineschools
-DTSTAMP:20260505T205932Z
+DTSTAMP:20260506T210804Z
 DTSTART;VALUE=DATE:20260514
 SUMMARY:Mashed Potato & Chicken Bowl
 DESCRIPTION:Full menu:\nMashed Potato & Chicken Bowl\nDinner Roll\nAssorted Chilled Fruit\n1% Low-fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:little-star-2026-05-15@salineschools
-DTSTAMP:20260505T205932Z
+DTSTAMP:20260506T210804Z
 DTSTART;VALUE=DATE:20260515
 SUMMARY:Cheese Pizza
 DESCRIPTION:Full menu:\nCheese Pizza\nBroccoli\nPepperoni Pizza\nAssorted Chilled Fruit\n1% Low-fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:little-star-2026-05-18@salineschools
-DTSTAMP:20260505T205932Z
+DTSTAMP:20260506T210804Z
 DTSTART;VALUE=DATE:20260518
 SUMMARY:Bacon Cheeseburger
 DESCRIPTION:Full menu:\nBacon Cheeseburger\nSeasoned Broccoli\nAssorted Chilled Fruit\n1% Low-fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:little-star-2026-05-19@salineschools
-DTSTAMP:20260505T205932Z
+DTSTAMP:20260506T210804Z
 DTSTART;VALUE=DATE:20260519
 SUMMARY:Beef Nachos
 DESCRIPTION:Full menu:\nBeef Nachos\nSeasoned Black Beans\nAssorted Chilled Fruit\n1% Low-fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:little-star-2026-05-20@salineschools
-DTSTAMP:20260505T205932Z
+DTSTAMP:20260506T210804Z
 DTSTART;VALUE=DATE:20260520
 SUMMARY:Mini  French Toast
 DESCRIPTION:Full menu:\nMini  French Toast\nTurkey Sausage Link\nHash Brown Patty\nAssorted Chilled Fruit\n1% Low-fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:little-star-2026-05-21@salineschools
-DTSTAMP:20260505T205932Z
+DTSTAMP:20260506T210804Z
 DTSTART;VALUE=DATE:20260521
 SUMMARY:Jumbo Whole Muscle Chicken Tenders
 DESCRIPTION:Full menu:\nJumbo Whole Muscle Chicken Tenders\nDinner Roll\nSweet Potato Fries\nAssorted Chilled Fruit\n1% Low-fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:little-star-2026-05-22@salineschools
-DTSTAMP:20260505T205932Z
+DTSTAMP:20260506T210804Z
 DTSTART;VALUE=DATE:20260522
 SUMMARY:Cheese Pizza
 DESCRIPTION:Full menu:\nCheese Pizza\nSeasoned Broccoli\nPepperoni Pizza\nAssorted Chilled Fruit\n1% Low-fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:little-star-2026-05-26@salineschools
-DTSTAMP:20260505T205932Z
+DTSTAMP:20260506T210804Z
 DTSTART;VALUE=DATE:20260526
 SUMMARY:Turkey Ham & Cheese on Pretzel Roll
 DESCRIPTION:Full menu:\nTurkey Ham & Cheese on Pretzel Roll\nSeasoned Corn\nAssorted Chilled Fruit\n1% Low-fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:little-star-2026-05-27@salineschools
-DTSTAMP:20260505T205932Z
+DTSTAMP:20260506T210804Z
 DTSTART;VALUE=DATE:20260527
 SUMMARY:Whole Grain Waffle
 DESCRIPTION:Full menu:\nWhole Grain Waffle\nTurkey Sausage Link\nSyrup\nTater Tots\nAssorted Chilled Fruit\n1% Low-fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:little-star-2026-05-28@salineschools
-DTSTAMP:20260505T205932Z
+DTSTAMP:20260506T210804Z
 DTSTART;VALUE=DATE:20260528
 SUMMARY:Lunch Menu
 DESCRIPTION:Full menu:\nWaffle Fries\nAssorted Chilled Fruit\n1% Low-fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:little-star-2026-05-29@salineschools
-DTSTAMP:20260505T205932Z
+DTSTAMP:20260506T210804Z
 DTSTART;VALUE=DATE:20260529
 SUMMARY:Cheese Pizza
 DESCRIPTION:Full menu:\nCheese Pizza\nRoasted Broccoli\nPepperoni Pizza\nAssorted Chilled Fruit\n1% Low-fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:little-star-2026-06-01@salineschools
-DTSTAMP:20260505T205932Z
+DTSTAMP:20260506T210804Z
 DTSTART;VALUE=DATE:20260601
 SUMMARY:Macaroni and Cheese
 DESCRIPTION:Full menu:\nMacaroni and Cheese\nDinner Roll\nBroccoli\nAssorted Chilled Fruit\n1% Low-fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:little-star-2026-06-02@salineschools
-DTSTAMP:20260505T205932Z
+DTSTAMP:20260506T210804Z
 DTSTART;VALUE=DATE:20260602
 SUMMARY:Cheese Stuffed Breadsticks
 DESCRIPTION:Full menu:\nCheese Stuffed Breadsticks\nBaby Carrots\nAssorted Chilled Fruit\n1% Low-fat Milk
