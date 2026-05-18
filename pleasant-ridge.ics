@@ -7,84 +7,84 @@ X-WR-CALNAME:Pleasant Ridge ES Lunch Menu
 X-WR-CALDESC:Lunch menus for Pleasant Ridge ES.
 BEGIN:VEVENT
 UID:pleasant-ridge-2026-05-18@salineschools
-DTSTAMP:20260517T204428Z
+DTSTAMP:20260518T210757Z
 DTSTART;VALUE=DATE:20260518
 SUMMARY:Bacon Cheeseburger
 DESCRIPTION:Full menu:\nBacon Cheeseburger\nFrench Fries\nBagel\, Egg & Cream Cheese Fun lunch\nAssorted Fruit Juice\nAssorted Chilled Fruit\nFresh Whole Fruit\nRomaine Lettuce\nBaby Carrots & Celery Sticks\nCitrus Kidney & Garbanzo Bean Salad\nBroccoli\nKetchup Packet\nMustard Packet\nMayonnaise\nRanch Dressing\n1% Low-fat Milk\nChocolate Low Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:pleasant-ridge-2026-05-19@salineschools
-DTSTAMP:20260517T204428Z
+DTSTAMP:20260518T210757Z
 DTSTART;VALUE=DATE:20260519
 SUMMARY:Beef Nachos
 DESCRIPTION:Full menu:\nBeef Nachos\nBagel\, Egg & Cream Cheese Fun lunch\nAssorted Fruit Juice\nAssorted Chilled Fruit\nFresh Whole Fruit\nRomaine Lettuce\nBaby Carrots & Celery Sticks\nCitrus Kidney & Garbanzo Bean Salad\nBroccoli\nKetchup Packet\nMustard Packet\nMayonnaise\nRanch Dressing\n1% Low-fat Milk\nChocolate Low Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:pleasant-ridge-2026-05-20@salineschools
-DTSTAMP:20260517T204428Z
+DTSTAMP:20260518T210757Z
 DTSTART;VALUE=DATE:20260520
 SUMMARY:Whole Grain French Toast Sticks
 DESCRIPTION:Full menu:\nWhole Grain French Toast Sticks\nTurkey Sausage Link\nHash Brown Patty\nBagel\, Egg & Cream Cheese Fun lunch\nAssorted Fruit Juice\nAssorted Chilled Fruit\nFresh Whole Fruit\nRomaine Lettuce\nBaby Carrots & Celery Sticks\nCitrus Kidney & Garbanzo Bean Salad\nBroccoli\nKetchup Packet\nMustard Packet\nMayonnaise\nRanch Dressing\n1% Low-fat Milk\nChocolate Low Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:pleasant-ridge-2026-05-21@salineschools
-DTSTAMP:20260517T204428Z
+DTSTAMP:20260518T210757Z
 DTSTART;VALUE=DATE:20260521
 SUMMARY:Jumbo Whole Muscle Chicken Tenders
 DESCRIPTION:Full menu:\nJumbo Whole Muscle Chicken Tenders\nDinner Roll\nSweet Potato Fries\nBagel\, Egg & Cream Cheese Fun lunch\nAssorted Fruit Juice\nAssorted Chilled Fruit\nFresh Whole Fruit\nRomaine Lettuce\nBaby Carrots & Celery Sticks\nCitrus Kidney & Garbanzo Bean Salad\nBroccoli\nKetchup Packet\nMustard Packet\nMayonnaise\nRanch Dressing\n1% Low-fat Milk\nChocolate Low Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:pleasant-ridge-2026-05-22@salineschools
-DTSTAMP:20260517T204428Z
+DTSTAMP:20260518T210757Z
 DTSTART;VALUE=DATE:20260522
 SUMMARY:Pepperoni Pizza
 DESCRIPTION:Full menu:\nPepperoni Pizza\nCheese Pizza\nBagel\, Egg & Cream Cheese Fun lunch\nAssorted Fruit Juice\nAssorted Chilled Fruit\nFresh Whole Fruit\nRomaine Lettuce\nBaby Carrots & Celery Sticks\nCitrus Kidney & Garbanzo Bean Salad\nBroccoli\nKetchup Packet\nMustard Packet\nMayonnaise\nRanch Dressing\n1% Low-fat Milk\nChocolate Low Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:pleasant-ridge-2026-05-26@salineschools
-DTSTAMP:20260517T204428Z
+DTSTAMP:20260518T210757Z
 DTSTART;VALUE=DATE:20260526
 SUMMARY:Turkey Ham & Cheese on Pretzel Roll
 DESCRIPTION:Full menu:\nTurkey Ham & Cheese on Pretzel Roll\nSeasoned Corn\nMuffin\, Goldfish & Yogurt Fun Lunch\nAssorted Fruit Juice\nAssorted Chilled Fruit\nFresh Whole Fruit\nCorn & Black Bean Salsa Salad\nSliced Cucumbers\nFresh Broccoli Florets\nKetchup Packet\nMustard Packet\nMayonnaise\nRanch Dressing\n1% Low-fat Milk\nChocolate Low Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:pleasant-ridge-2026-05-27@salineschools
-DTSTAMP:20260517T204428Z
+DTSTAMP:20260518T210757Z
 DTSTART;VALUE=DATE:20260527
 SUMMARY:Whole Grain Waffle
 DESCRIPTION:Full menu:\nWhole Grain Waffle\nTurkey Sausage Link\nMuffin\, Goldfish & Yogurt Fun Lunch\nAssorted Fruit Juice\nAssorted Chilled Fruit\nFresh Whole Fruit\nCorn & Black Bean Salsa Salad\nSliced Cucumbers\nFresh Broccoli Florets\nKetchup Packet\nMustard Packet\nMayonnaise\nRanch Dressing\n1% Low-fat Milk\nChocolate Low Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:pleasant-ridge-2026-05-28@salineschools
-DTSTAMP:20260517T204428Z
+DTSTAMP:20260518T210757Z
 DTSTART;VALUE=DATE:20260528
 SUMMARY:Turkey Corn Dog
 DESCRIPTION:Full menu:\nTurkey Corn Dog\nWaffle Fries\nMuffin\, Goldfish & Yogurt Fun Lunch\nAssorted Fruit Juice\nAssorted Chilled Fruit\nFresh Whole Fruit\nCorn & Black Bean Salsa Salad\nSliced Cucumbers\nFresh Broccoli Florets\nKetchup Packet\nMustard Packet\nMayonnaise\nRanch Dressing\n1% Low-fat Milk\nChocolate Low Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:pleasant-ridge-2026-05-29@salineschools
-DTSTAMP:20260517T204428Z
+DTSTAMP:20260518T210757Z
 DTSTART;VALUE=DATE:20260529
 SUMMARY:Pepperoni Pizza
 DESCRIPTION:Full menu:\nPepperoni Pizza\nCheese Pizza\nMuffin\, Goldfish & Yogurt Fun Lunch\nAssorted Fruit Juice\nAssorted Chilled Fruit\nFresh Whole Fruit\nCorn & Black Bean Salsa Salad\nSliced Cucumbers\nFresh Broccoli Florets\nKetchup Packet\nMustard Packet\nMayonnaise\nRanch Dressing\n1% Low-fat Milk\nChocolate Low Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:pleasant-ridge-2026-06-01@salineschools
-DTSTAMP:20260517T204428Z
+DTSTAMP:20260518T210757Z
 DTSTART;VALUE=DATE:20260601
 SUMMARY:Macaroni and Cheese
 DESCRIPTION:Full menu:\nMacaroni and Cheese\nDinner Roll\nBroccoli\nMuffin\, Goldfish & Yogurt Fun Lunch\nAssorted Fruit Juice\nAssorted Chilled Fruit\nFresh Whole Fruit\nRomaine Lettuce\nBaby Carrots & Celery Sticks\nCitrus Kidney & Garbanzo Bean Salad\nKetchup Packet\nMustard Packet\nMayonnaise\nRanch Dressing\n1% Low-fat Milk\nChocolate Low Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:pleasant-ridge-2026-06-02@salineschools
-DTSTAMP:20260517T204428Z
+DTSTAMP:20260518T210757Z
 DTSTART;VALUE=DATE:20260602
 SUMMARY:Cheese Stuffed Breadsticks
 DESCRIPTION:Full menu:\nCheese Stuffed Breadsticks\nPizza Sauce\nMuffin\, Goldfish & Yogurt Fun Lunch\nAssorted Fruit Juice\nAssorted Chilled Fruit\nFresh Whole Fruit\nRomaine Lettuce\nBaby Carrots & Celery Sticks\nCitrus Kidney & Garbanzo Bean Salad\nKetchup Packet\nMustard Packet\nMayonnaise\nRanch Dressing\n1% Low-fat Milk\nChocolate Low Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:pleasant-ridge-2026-06-05@salineschools
-DTSTAMP:20260517T204428Z
+DTSTAMP:20260518T210757Z
 DTSTART;VALUE=DATE:20260605
 SUMMARY:Pepperoni Pizza
 DESCRIPTION:Full menu:\nPepperoni Pizza\nCheese Pizza\nMuffin\, Goldfish & Yogurt Fun Lunch\nAssorted Fruit Juice\nAssorted Chilled Fruit\nFresh Whole Fruit\nRomaine Lettuce\nBaby Carrots & Celery Sticks\nCitrus Kidney & Garbanzo Bean Salad\nKetchup Packet\nMustard Packet\nMayonnaise\nRanch Dressing\n1% Low-fat Milk\nChocolate Low Fat Milk
