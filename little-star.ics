@@ -7,49 +7,49 @@ X-WR-CALNAME:Little Star Lunch Menu
 X-WR-CALDESC:Lunch menus for Little Star.
 BEGIN:VEVENT
 UID:little-star-2026-05-26@salineschools
-DTSTAMP:20260524T205109Z
+DTSTAMP:20260525T210209Z
 DTSTART;VALUE=DATE:20260526
 SUMMARY:Turkey Ham & Cheese on Pretzel Roll
 DESCRIPTION:Full menu:\nTurkey Ham & Cheese on Pretzel Roll\nSeasoned Corn\nAssorted Chilled Fruit\n1% Low-fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:little-star-2026-05-27@salineschools
-DTSTAMP:20260524T205109Z
+DTSTAMP:20260525T210209Z
 DTSTART;VALUE=DATE:20260527
 SUMMARY:Whole Grain Waffle
 DESCRIPTION:Full menu:\nWhole Grain Waffle\nTurkey Sausage Link\nSyrup\nTater Tots\nAssorted Chilled Fruit\n1% Low-fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:little-star-2026-05-28@salineschools
-DTSTAMP:20260524T205109Z
+DTSTAMP:20260525T210209Z
 DTSTART;VALUE=DATE:20260528
 SUMMARY:Lunch Menu
 DESCRIPTION:Full menu:\nWaffle Fries\nAssorted Chilled Fruit\n1% Low-fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:little-star-2026-05-29@salineschools
-DTSTAMP:20260524T205109Z
+DTSTAMP:20260525T210209Z
 DTSTART;VALUE=DATE:20260529
 SUMMARY:Cheese Pizza
 DESCRIPTION:Full menu:\nCheese Pizza\nRoasted Broccoli\nPepperoni Pizza\nAssorted Chilled Fruit\n1% Low-fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:little-star-2026-06-01@salineschools
-DTSTAMP:20260524T205109Z
+DTSTAMP:20260525T210209Z
 DTSTART;VALUE=DATE:20260601
 SUMMARY:Macaroni and Cheese
 DESCRIPTION:Full menu:\nMacaroni and Cheese\nDinner Roll\nBroccoli\nAssorted Chilled Fruit\n1% Low-fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:little-star-2026-06-02@salineschools
-DTSTAMP:20260524T205109Z
+DTSTAMP:20260525T210209Z
 DTSTART;VALUE=DATE:20260602
 SUMMARY:Cheese Stuffed Breadsticks
 DESCRIPTION:Full menu:\nCheese Stuffed Breadsticks\nBaby Carrots\nAssorted Chilled Fruit\n1% Low-fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:little-star-2026-06-05@salineschools
-DTSTAMP:20260524T205109Z
+DTSTAMP:20260525T210209Z
 DTSTART;VALUE=DATE:20260605
 SUMMARY:Cheese Pizza
 DESCRIPTION:Full menu:\nCheese Pizza\nCorn\nPepperoni Pizza\nAssorted Chilled Fruit\n1% Low-fat Milk
