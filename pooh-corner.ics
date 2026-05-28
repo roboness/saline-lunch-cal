@@ -6,29 +6,22 @@ METHOD:PUBLISH
 X-WR-CALNAME:Pooh Corner GSRP Lunch Menu
 X-WR-CALDESC:Lunch menus for Pooh Corner GSRP.
 BEGIN:VEVENT
-UID:pooh-corner-2026-05-27@salineschools
-DTSTAMP:20260527T215135Z
-DTSTART;VALUE=DATE:20260527
-SUMMARY:Whole Grain Waffle
-DESCRIPTION:Full menu:\nWhole Grain Waffle\nTurkey Sausage Link\nSyrup\nHash Brown Patty\nAssorted Chilled Fruit\n1% Low-fat Milk
-END:VEVENT
-BEGIN:VEVENT
 UID:pooh-corner-2026-05-28@salineschools
-DTSTAMP:20260527T215135Z
+DTSTAMP:20260528T215253Z
 DTSTART;VALUE=DATE:20260528
 SUMMARY:Cheese Pizza
 DESCRIPTION:Full menu:\nCheese Pizza\nWaffle Fries\nAssorted Chilled Fruit\n1% Low-fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:pooh-corner-2026-06-01@salineschools
-DTSTAMP:20260527T215135Z
+DTSTAMP:20260528T215253Z
 DTSTART;VALUE=DATE:20260601
 SUMMARY:Macaroni and Cheese
 DESCRIPTION:Full menu:\nMacaroni and Cheese\nDinner Roll\nBroccoli\nAssorted Chilled Fruit\n1% Low-fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:pooh-corner-2026-06-02@salineschools
-DTSTAMP:20260527T215135Z
+DTSTAMP:20260528T215253Z
 DTSTART;VALUE=DATE:20260602
 SUMMARY:Cheese Stuffed Breadsticks
 DESCRIPTION:Full menu:\nCheese Stuffed Breadsticks\nBaby Carrots\nAssorted Chilled Fruit\n1% Low-fat Milk
