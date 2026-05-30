@@ -7,14 +7,14 @@ X-WR-CALNAME:Pooh Corner GSRP Lunch Menu
 X-WR-CALDESC:Lunch menus for Pooh Corner GSRP.
 BEGIN:VEVENT
 UID:pooh-corner-2026-06-01@salineschools
-DTSTAMP:20260529T215009Z
+DTSTAMP:20260530T205156Z
 DTSTART;VALUE=DATE:20260601
 SUMMARY:Macaroni and Cheese
 DESCRIPTION:Full menu:\nMacaroni and Cheese\nDinner Roll\nBroccoli\nAssorted Chilled Fruit\n1% Low-fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:pooh-corner-2026-06-02@salineschools
-DTSTAMP:20260529T215009Z
+DTSTAMP:20260530T205156Z
 DTSTART;VALUE=DATE:20260602
 SUMMARY:Cheese Stuffed Breadsticks
 DESCRIPTION:Full menu:\nCheese Stuffed Breadsticks\nBaby Carrots\nAssorted Chilled Fruit\n1% Low-fat Milk
