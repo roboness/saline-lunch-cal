@@ -7,21 +7,21 @@ X-WR-CALNAME:Little Star Lunch Menu
 X-WR-CALDESC:Lunch menus for Little Star.
 BEGIN:VEVENT
 UID:little-star-2026-06-01@salineschools
-DTSTAMP:20260531T205500Z
+DTSTAMP:20260601T223144Z
 DTSTART;VALUE=DATE:20260601
 SUMMARY:Macaroni and Cheese
 DESCRIPTION:Full menu:\nMacaroni and Cheese\nDinner Roll\nBroccoli\nAssorted Chilled Fruit\n1% Low-fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:little-star-2026-06-02@salineschools
-DTSTAMP:20260531T205500Z
+DTSTAMP:20260601T223144Z
 DTSTART;VALUE=DATE:20260602
 SUMMARY:Cheese Stuffed Breadsticks
 DESCRIPTION:Full menu:\nCheese Stuffed Breadsticks\nBaby Carrots\nAssorted Chilled Fruit\n1% Low-fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:little-star-2026-06-05@salineschools
-DTSTAMP:20260531T205500Z
+DTSTAMP:20260601T223144Z
 DTSTART;VALUE=DATE:20260605
 SUMMARY:Cheese Pizza
 DESCRIPTION:Full menu:\nCheese Pizza\nCorn\nPepperoni Pizza\nAssorted Chilled Fruit\n1% Low-fat Milk
