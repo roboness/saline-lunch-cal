@@ -6,15 +6,8 @@ METHOD:PUBLISH
 X-WR-CALNAME:Saline MS Lunch Menu
 X-WR-CALDESC:Lunch menus for Saline MS.
 BEGIN:VEVENT
-UID:saline-middle-school-2026-06-02@salineschools
-DTSTAMP:20260602T222054Z
-DTSTART;VALUE=DATE:20260602
-SUMMARY:Chicken Tenders
-DESCRIPTION:Full menu:\nChicken Tenders\nWhole Grain Waffles\nSyrup\nDinner Roll\nCheese Pizza\nPepperoni Pizza\nClassic American Cheeseburger\nClassic Hamburger\nCrispy Chicken Patty Sandwich\nSpicy Chicken Sandwich\nWaffle Fries\nSeasoned Turkey Taco Meat\nFajita Style Chicken\nTortilla Chips\nSoft Flour Tortilla\nCilantro Lime Brown Rice\nQueso Cheese Sauce\nShredded Romaine Lettuce\nPico de Gallo\nShredded Cheddar Cheese\nBuffalo Ranch Sauce\nSour Cream\nDeli Turkey\nDeli Turkey Ham\nSalami\nSub Roll\nAmerican Cheese\nProvolone Cheese\nCheddar Cheese Cracker Cuts\nPepper Jack Cheese\nShredded Lettuce\nSliced Tomatoes\nSliced Cucumbers\nRed and Green Bell Pepper Strips\nFresh Sliced Red Onion\nBanana Peppers\nMayonnaise\nYellow Mustard\nSpicy Mayo\nGolden Italian Dressing\nHomemade Honey Mustard Dressing\nSouthwestern Ranch Dressing\nHam & Turkey Chef Salad\nPopcorn Chicken Salad\nBerry Parfait with Granola\nCroutons\nFresh Whole Fruit\nAssorted Chilled Fruit\nAssorted Fruit Juice\nFresh Cherry Tomatoes\nCitrus Chickpea Salad\nBroccoli\nCorn & Black Bean Salad\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Low Fat Milk\nMayonnaise Light\, 0.437 oz\nMustard Packet\nKetchup Packet\nFat Free Ranch\, 0.4375 oz
-END:VEVENT
-BEGIN:VEVENT
 UID:saline-middle-school-2026-06-05@salineschools
-DTSTAMP:20260602T222054Z
+DTSTAMP:20260603T222646Z
 DTSTART;VALUE=DATE:20260605
 SUMMARY:Dinner Roll
 DESCRIPTION:Full menu:\nDinner Roll\nMashed Potato & Chicken Bowl\nSeasoned Corn\nCheese Pizza\nPepperoni Pizza\nMeat Lover's Pizza\nClassic American Cheeseburger\nClassic Hamburger\nCrispy Chicken Patty Sandwich\nSpicy Chicken Sandwich\nWaffle Fries\nSeasoned Turkey Taco Meat\nFajita Style Chicken\nTortilla Chips\nSoft Flour Tortilla\nCilantro Lime Brown Rice\nQueso Cheese Sauce\nShredded Romaine Lettuce\nPico de Gallo\nShredded Cheddar Cheese\nBuffalo Ranch Sauce\nSour Cream\nDeli Turkey\nDeli Turkey Ham\nSalami\nSub Roll\nAmerican Cheese\nProvolone Cheese\nCheddar Cheese Cracker Cuts\nPepper Jack Cheese\nShredded Lettuce\nSliced Tomatoes\nSliced Cucumbers\nRed and Green Bell Pepper Strips\nFresh Sliced Red Onion\nBanana Peppers\nMayonnaise\nYellow Mustard\nSpicy Mayo\nGolden Italian Dressing\nHomemade Honey Mustard Dressing\nSouthwestern Ranch Dressing\nHam & Turkey Chef Salad\nPopcorn Chicken Salad\nBerry Parfait with Granola\nCroutons\nFresh Whole Fruit\nAssorted Chilled Fruit\nAssorted Fruit Juice\nFresh Cherry Tomatoes\nCitrus Chickpea Salad\nBroccoli\nCorn & Black Bean Salad\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Low Fat Milk\nMayonnaise Light\, 0.437 oz\nMustard Packet\nKetchup Packet\nFat Free Ranch\, 0.4375 oz
