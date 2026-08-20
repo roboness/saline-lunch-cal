@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T20:21:43.619071Z",
+  "generated_at": "2026-08-20T20:22:35.432483Z",
   "district": "salineschools",
   "menu_type": "lunch",
   "days_ahead": 28,
@@ -19,10 +19,6 @@
     {
       "slug": "pleasant-ridge",
       "name": "Pleasant Ridge ES"
-    },
-    {
-      "slug": "pooh-corner-2",
-      "name": "Pooh Corner"
     },
     {
       "slug": "pooh-corner",
