@@ -7,93 +7,100 @@ X-WR-CALNAME:Saline Alternative Lunch Menu
 X-WR-CALDESC:Lunch menus for Saline Alternative.
 BEGIN:VEVENT
 UID:saline-alternative-2026-08-31@salineschools
-DTSTAMP:20260823T201710Z
+DTSTAMP:20260824T202442Z
 DTSTART;VALUE=DATE:20260831
 SUMMARY:Classic Cheese Pizza
 DESCRIPTION:Full menu:\nClassic Cheese Pizza\nTraditional Pepperoni Pizza\nClassic American Cheeseburger\nClassic Hamburger\nCrispy Chicken Patty Sandwich\nSpicy Chicken Sandwich\nWaffle Fries\nSeasoned Turkey Taco Meat\nFajita Style Chicken\nTortilla Chips\nSoft Flour Tortilla\nCilantro Lime Brown Rice\nQueso Cheese Sauce\nShredded Romaine Lettuce\nPico de Gallo\nShredded Cheddar Cheese\nBuffalo Ranch Sauce\nSour Cream\nDeli Turkey\nSliced Deli Ham\nSub Roll\nAmerican Cheese\nProvolone Cheese\nShredded Lettuce\nSliced Tomatoes\nSliced Cucumbers\nRed and Green Bell Pepper Strips\nFresh Sliced Red Onion\nMayonnaise\nYellow Mustard\nSpicy Mayo\nGolden Italian Dressing\nHomemade Honey Mustard Dressing\nSouthwestern Ranch Dressing\nHam & Turkey Chef Salad\nPopcorn Chicken Salad\nBerry Parfait with Granola\nWhole Grain Blueberry Muffin\nFresh Whole Fruit\nAssorted Chilled Fruit\nAssorted Fruit Juice\nFresh Cherry Tomatoes\nBroccoli\nSpicy Bean Salad\nCorn Salad with Ranch\nLow Fat Milk\nChocolate Low Fat Milk\nMayonnaise Light\, 0.437 oz\nMustard Packet\nKetchup Packet\nFat Free Ranch\, 0.4375 oz
 END:VEVENT
 BEGIN:VEVENT
 UID:saline-alternative-2026-09-01@salineschools
-DTSTAMP:20260823T201710Z
+DTSTAMP:20260824T202442Z
 DTSTART;VALUE=DATE:20260901
 SUMMARY:Classic Cheese Pizza
 DESCRIPTION:Full menu:\nClassic Cheese Pizza\nTraditional Pepperoni Pizza\nClassic American Cheeseburger\nClassic Hamburger\nCrispy Chicken Patty Sandwich\nSpicy Chicken Sandwich\nWaffle Fries\nSeasoned Turkey Taco Meat\nFajita Style Chicken\nTortilla Chips\nSoft Flour Tortilla\nCilantro Lime Brown Rice\nCreamy Cheddar Cheese Sauce\nShredded Romaine Lettuce\nPico de Gallo\nShredded Cheddar Cheese\nBuffalo Ranch Sauce\nSour Cream\nDeli Turkey\nSliced Deli Ham\nSub Roll\nAmerican Cheese\nProvolone Cheese\nShredded Lettuce\nSliced Tomatoes\nSliced Cucumbers\nRed and Green Bell Pepper Strips\nFresh Sliced Red Onion\nMayonnaise\nYellow Mustard\nSpicy Mayo\nGolden Italian Dressing\nHomemade Honey Mustard Dressing\nSouthwestern Ranch Dressing\nHam & Turkey Chef Salad\nPopcorn Chicken Salad\nBerry Parfait with Granola\nWhole Grain Blueberry Muffin\nFresh Whole Fruit\nAssorted Chilled Fruit\nAssorted Fruit Juice\nFresh Cherry Tomatoes\nBroccoli\nSpicy Bean Salad\nCorn Salad with Ranch\nLow Fat Milk\nChocolate Low Fat Milk\nMayonnaise Light\, 0.437 oz\nMustard Packet\nKetchup Packet\nFat Free Ranch\, 0.4375 oz
 END:VEVENT
 BEGIN:VEVENT
 UID:saline-alternative-2026-09-02@salineschools
-DTSTAMP:20260823T201710Z
+DTSTAMP:20260824T202442Z
 DTSTART;VALUE=DATE:20260902
 SUMMARY:Classic Cheese Pizza
 DESCRIPTION:Full menu:\nClassic Cheese Pizza\nTraditional Pepperoni Pizza\nClassic American Cheeseburger\nClassic Hamburger\nCrispy Chicken Patty Sandwich\nSpicy Chicken Sandwich\nWaffle Fries\nSeasoned Turkey Taco Meat\nFajita Style Chicken\nTortilla Chips\nSoft Flour Tortilla\nCilantro Lime Brown Rice\nQueso Cheese Sauce\nShredded Romaine Lettuce\nPico de Gallo\nShredded Cheddar Cheese\nBuffalo Ranch Sauce\nSour Cream\nDeli Turkey\nSliced Deli Ham\nSub Roll\nAmerican Cheese\nProvolone Cheese\nShredded Lettuce\nSliced Tomatoes\nSliced Cucumbers\nRed and Green Bell Pepper Strips\nFresh Sliced Red Onion\nMayonnaise\nYellow Mustard\nSpicy Mayo\nGolden Italian Dressing\nHomemade Honey Mustard Dressing\nSouthwestern Ranch Dressing\nHam & Turkey Chef Salad\nPopcorn Chicken Salad\nBerry Parfait with Granola\nWhole Grain Blueberry Muffin\nFresh Whole Fruit\nAssorted Chilled Fruit\nAssorted Fruit Juice\nFresh Cherry Tomatoes\nBroccoli\nSpicy Bean Salad\nCorn Salad with Ranch\nLow Fat Milk\nChocolate Low Fat Milk\nMayonnaise Light\, 0.437 oz\nMustard Packet\nKetchup Packet\nFat Free Ranch\, 0.4375 oz
 END:VEVENT
 BEGIN:VEVENT
 UID:saline-alternative-2026-09-03@salineschools
-DTSTAMP:20260823T201710Z
+DTSTAMP:20260824T202442Z
 DTSTART;VALUE=DATE:20260903
 SUMMARY:Classic Cheese Pizza
 DESCRIPTION:Full menu:\nClassic Cheese Pizza\nTraditional Pepperoni Pizza\nClassic American Cheeseburger\nClassic Hamburger\nCrispy Chicken Patty Sandwich\nSpicy Chicken Sandwich\nWaffle Fries\nSeasoned Turkey Taco Meat\nFajita Style Chicken\nTortilla Chips\nSoft Flour Tortilla\nCilantro Lime Brown Rice\nCreamy Cheddar Cheese Sauce\nShredded Romaine Lettuce\nPico de Gallo\nShredded Cheddar Cheese\nBuffalo Ranch Sauce\nSour Cream\nDeli Turkey\nSliced Deli Ham\nSub Roll\nAmerican Cheese\nProvolone Cheese\nShredded Lettuce\nSliced Tomatoes\nSliced Cucumbers\nRed and Green Bell Pepper Strips\nFresh Sliced Red Onion\nMayonnaise\nYellow Mustard\nSpicy Mayo\nGolden Italian Dressing\nHomemade Honey Mustard Dressing\nSouthwestern Ranch Dressing\nHam & Turkey Chef Salad\nPopcorn Chicken Salad\nBerry Parfait with Granola\nWhole Grain Blueberry Muffin\nFresh Whole Fruit\nAssorted Chilled Fruit\nAssorted Fruit Juice\nFresh Cherry Tomatoes\nBroccoli\nSpicy Bean Salad\nCorn Salad with Ranch\nLow Fat Milk\nChocolate Low Fat Milk\nMayonnaise Light\, 0.437 oz\nMustard Packet\nKetchup Packet\nFat Free Ranch\, 0.4375 oz
 END:VEVENT
 BEGIN:VEVENT
 UID:saline-alternative-2026-09-08@salineschools
-DTSTAMP:20260823T201710Z
+DTSTAMP:20260824T202442Z
 DTSTART;VALUE=DATE:20260908
 SUMMARY:Classic Cheese Pizza
 DESCRIPTION:Full menu:\nClassic Cheese Pizza\nTraditional Pepperoni Pizza\nClassic American Cheeseburger\nClassic Hamburger\nCrispy Chicken Patty Sandwich\nSpicy Chicken Sandwich\nSeasoned Crinkle Cut Fries\nSeasoned Turkey Taco Meat\nFajita Style Chicken\nTortilla Chips\nSoft Flour Tortilla\nFiesta Brown Rice\nCreamy Cheddar Cheese Sauce\nShredded Romaine Lettuce\nPico de Gallo\nShredded Cheddar Cheese\nBuffalo Ranch Sauce\nSour Cream\nDeli Turkey\nSliced Deli Ham\nSub Roll\nAmerican Cheese\nProvolone Cheese\nShredded Lettuce\nSliced Tomatoes\nSliced Cucumbers\nRed and Green Bell Pepper Strips\nFresh Sliced Red Onion\nMayonnaise\nYellow Mustard\nSpicy Mayo\nGolden Italian Dressing\nHomemade Honey Mustard Dressing\nSouthwestern Ranch Dressing\nAsian Chicken Salad\nBeef Taco Salad with Salsa\nBerry Parfait with Granola\nChocolate Chip Muffin\nFresh Whole Fruit\nAssorted Chilled Fruit\nAssorted Fruit Juice\nFresh Cherry Tomatoes\nBroccoli\nSpicy Bean Salad\nCorn Salad with Ranch\nLow Fat Milk\nChocolate Low Fat Milk\nMayonnaise Light\, 0.437 oz\nMustard Packet\nKetchup Packet\nFat Free Ranch\, 0.4375 oz
 END:VEVENT
 BEGIN:VEVENT
 UID:saline-alternative-2026-09-09@salineschools
-DTSTAMP:20260823T201710Z
+DTSTAMP:20260824T202442Z
 DTSTART;VALUE=DATE:20260909
 SUMMARY:Classic Cheese Pizza
 DESCRIPTION:Full menu:\nClassic Cheese Pizza\nTraditional Pepperoni Pizza\nClassic American Cheeseburger\nClassic Hamburger\nCrispy Chicken Patty Sandwich\nSpicy Chicken Sandwich\nSeasoned Crinkle Cut Fries\nSeasoned Turkey Taco Meat\nFajita Style Chicken\nTortilla Chips\nSoft Flour Tortilla\nFiesta Brown Rice\nQueso Cheese Sauce\nShredded Romaine Lettuce\nPico de Gallo\nShredded Cheddar Cheese\nBuffalo Ranch Sauce\nSour Cream\nDeli Turkey\nSliced Deli Ham\nSub Roll\nAmerican Cheese\nProvolone Cheese\nShredded Lettuce\nSliced Tomatoes\nSliced Cucumbers\nRed and Green Bell Pepper Strips\nFresh Sliced Red Onion\nMayonnaise\nYellow Mustard\nSpicy Mayo\nGolden Italian Dressing\nHomemade Honey Mustard Dressing\nSouthwestern Ranch Dressing\nAsian Chicken Salad\nBeef Taco Salad with Salsa\nBerry Parfait with Granola\nChocolate Chip Muffin\nFresh Whole Fruit\nAssorted Chilled Fruit\nAssorted Fruit Juice\nFresh Cherry Tomatoes\nBroccoli\nSpicy Bean Salad\nCorn Salad with Ranch\nLow Fat Milk\nChocolate Low Fat Milk\nMayonnaise Light\, 0.437 oz\nMustard Packet\nKetchup Packet\nFat Free Ranch\, 0.4375 oz
 END:VEVENT
 BEGIN:VEVENT
 UID:saline-alternative-2026-09-10@salineschools
-DTSTAMP:20260823T201710Z
+DTSTAMP:20260824T202442Z
 DTSTART;VALUE=DATE:20260910
 SUMMARY:Classic Cheese Pizza
 DESCRIPTION:Full menu:\nClassic Cheese Pizza\nTraditional Pepperoni Pizza\nClassic American Cheeseburger\nClassic Hamburger\nCrispy Chicken Patty Sandwich\nSpicy Chicken Sandwich\nSeasoned Crinkle Cut Fries\nSeasoned Turkey Taco Meat\nFajita Style Chicken\nTortilla Chips\nSoft Flour Tortilla\nFiesta Brown Rice\nCreamy Cheddar Cheese Sauce\nShredded Romaine Lettuce\nPico de Gallo\nShredded Cheddar Cheese\nBuffalo Ranch Sauce\nSour Cream\nDeli Turkey\nSliced Deli Ham\nSub Roll\nAmerican Cheese\nProvolone Cheese\nShredded Lettuce\nSliced Tomatoes\nSliced Cucumbers\nRed and Green Bell Pepper Strips\nFresh Sliced Red Onion\nMayonnaise\nYellow Mustard\nSpicy Mayo\nGolden Italian Dressing\nHomemade Honey Mustard Dressing\nSouthwestern Ranch Dressing\nAsian Chicken Salad\nBeef Taco Salad with Salsa\nBerry Parfait with Granola\nChocolate Chip Muffin\nFresh Whole Fruit\nAssorted Chilled Fruit\nAssorted Fruit Juice\nFresh Cherry Tomatoes\nBroccoli\nSpicy Bean Salad\nCorn Salad with Ranch\nLow Fat Milk\nChocolate Low Fat Milk\nMayonnaise Light\, 0.437 oz\nMustard Packet\nKetchup Packet\nFat Free Ranch\, 0.4375 oz
 END:VEVENT
 BEGIN:VEVENT
 UID:saline-alternative-2026-09-11@salineschools
-DTSTAMP:20260823T201710Z
+DTSTAMP:20260824T202442Z
 DTSTART;VALUE=DATE:20260911
 SUMMARY:Classic Cheese Pizza
 DESCRIPTION:Full menu:\nClassic Cheese Pizza\nTraditional Pepperoni Pizza\nClassic American Cheeseburger\nClassic Hamburger\nCrispy Chicken Patty Sandwich\nSpicy Chicken Sandwich\nSeasoned Crinkle Cut Fries\nSeasoned Turkey Taco Meat\nFajita Style Chicken\nTortilla Chips\nSoft Flour Tortilla\nFiesta Brown Rice\nQueso Cheese Sauce\nShredded Romaine Lettuce\nPico de Gallo\nShredded Cheddar Cheese\nBuffalo Ranch Sauce\nSour Cream\nDeli Turkey\nSliced Deli Ham\nSub Roll\nAmerican Cheese\nProvolone Cheese\nShredded Lettuce\nSliced Tomatoes\nSliced Cucumbers\nRed and Green Bell Pepper Strips\nFresh Sliced Red Onion\nMayonnaise\nYellow Mustard\nSpicy Mayo\nGolden Italian Dressing\nHomemade Honey Mustard Dressing\nSouthwestern Ranch Dressing\nAsian Chicken Salad\nBeef Taco Salad with Salsa\nBerry Parfait with Granola\nChocolate Chip Muffin\nFresh Whole Fruit\nAssorted Chilled Fruit\nAssorted Fruit Juice\nFresh Cherry Tomatoes\nBroccoli\nSpicy Bean Salad\nCorn Salad with Ranch\nLow Fat Milk\nChocolate Low Fat Milk\nMayonnaise Light\, 0.437 oz\nMustard Packet\nKetchup Packet\nFat Free Ranch\, 0.4375 oz
 END:VEVENT
 BEGIN:VEVENT
 UID:saline-alternative-2026-09-14@salineschools
-DTSTAMP:20260823T201710Z
+DTSTAMP:20260824T202442Z
 DTSTART;VALUE=DATE:20260914
 SUMMARY:Classic Cheese Pizza
 DESCRIPTION:Full menu:\nClassic Cheese Pizza\nTraditional Pepperoni Pizza\nClassic Cheeseburger in Bun\nClassic Hamburger\nCrispy Chicken Patty Sandwich\nSpicy Chicken Sandwich\nSeasoned Crinkle Cut Fries\nSeasoned Turkey Taco Meat\nFajita Style Chicken\nTortilla Chips\nSoft Flour Tortilla\nCilantro Lime Brown Rice\nQueso Cheese Sauce\nShredded Romaine Lettuce\nPico de Gallo\nShredded Cheddar Cheese\nBuffalo Ranch Sauce\nSour Cream\nDeli Turkey\nSliced Deli Ham\nSub Roll\nAmerican Cheese\nProvolone Cheese\nShredded Lettuce\nSliced Tomatoes\nSliced Cucumbers\nRed and Green Bell Pepper Strips\nFresh Sliced Red Onion\nMayonnaise\nYellow Mustard\nSpicy Mayo\nGolden Italian Dressing\nHomemade Honey Mustard Dressing\nSouthwestern Ranch Dressing\nHam & Turkey Chef Salad\nPopcorn Chicken Salad\nBerry Parfait with Granola\nWhole Grain Blueberry Muffin\nFresh Whole Fruit\nAssorted Chilled Fruit\nAssorted Fruit Juice\nFresh Cherry Tomatoes\nCitrus Chickpea Salad\nBroccoli\nCorn & Black Bean Salad\nLow Fat Milk\nChocolate Low Fat Milk\nMayonnaise Light\, 0.437 oz\nMustard Packet\nKetchup Packet\nFat Free Ranch\, 0.4375 oz
 END:VEVENT
 BEGIN:VEVENT
 UID:saline-alternative-2026-09-15@salineschools
-DTSTAMP:20260823T201710Z
+DTSTAMP:20260824T202442Z
 DTSTART;VALUE=DATE:20260915
 SUMMARY:Classic Cheese Pizza
 DESCRIPTION:Full menu:\nClassic Cheese Pizza\nTraditional Pepperoni Pizza\nClassic Cheeseburger in Bun\nClassic Hamburger\nCrispy Chicken Patty Sandwich\nSpicy Chicken Sandwich\nWaffle Fries\nSeasoned Turkey Taco Meat\nFajita Style Chicken\nTortilla Chips\nSoft Flour Tortilla\nCilantro Lime Brown Rice\nCreamy Cheddar Cheese Sauce\nShredded Romaine Lettuce\nPico de Gallo\nShredded Cheddar Cheese\nBuffalo Ranch Sauce\nSour Cream\nDeli Turkey\nSliced Deli Ham\nSub Roll\nAmerican Cheese\nProvolone Cheese\nShredded Lettuce\nSliced Tomatoes\nSliced Cucumbers\nRed and Green Bell Pepper Strips\nFresh Sliced Red Onion\nMayonnaise\nYellow Mustard\nSpicy Mayo\nGolden Italian Dressing\nHomemade Honey Mustard Dressing\nSouthwestern Ranch Dressing\nHam & Turkey Chef Salad\nPopcorn Chicken Salad\nBerry Parfait with Granola\nWhole Grain Blueberry Muffin\nFresh Whole Fruit\nAssorted Chilled Fruit\nAssorted Fruit Juice\nFresh Cherry Tomatoes\nCitrus Chickpea Salad\nBroccoli\nCorn & Black Bean Salad\nLow Fat Milk\nChocolate Low Fat Milk\nMayonnaise Light\, 0.437 oz\nMustard Packet\nKetchup Packet\nFat Free Ranch\, 0.4375 oz
 END:VEVENT
 BEGIN:VEVENT
 UID:saline-alternative-2026-09-16@salineschools
-DTSTAMP:20260823T201710Z
+DTSTAMP:20260824T202442Z
 DTSTART;VALUE=DATE:20260916
 SUMMARY:Classic Cheese Pizza
 DESCRIPTION:Full menu:\nClassic Cheese Pizza\nTraditional Pepperoni Pizza\nClassic Cheeseburger in Bun\nClassic Hamburger\nCrispy Chicken Patty Sandwich\nSpicy Chicken Sandwich\nSeasoned Crinkle Cut Fries\nSeasoned Turkey Taco Meat\nFajita Style Chicken\nTortilla Chips\nSoft Flour Tortilla\nCilantro Lime Brown Rice\nQueso Cheese Sauce\nShredded Romaine Lettuce\nPico de Gallo\nShredded Cheddar Cheese\nBuffalo Ranch Sauce\nSour Cream\nDeli Turkey\nSliced Deli Ham\nSub Roll\nAmerican Cheese\nProvolone Cheese\nShredded Lettuce\nSliced Tomatoes\nSliced Cucumbers\nRed and Green Bell Pepper Strips\nFresh Sliced Red Onion\nMayonnaise\nYellow Mustard\nSpicy Mayo\nGolden Italian Dressing\nHomemade Honey Mustard Dressing\nSouthwestern Ranch Dressing\nHam & Turkey Chef Salad\nPopcorn Chicken Salad\nBerry Parfait with Granola\nWhole Grain Blueberry Muffin\nFresh Whole Fruit\nAssorted Chilled Fruit\nAssorted Fruit Juice\nFresh Cherry Tomatoes\nCitrus Chickpea Salad\nBroccoli\nCorn & Black Bean Salad\nLow Fat Milk\nChocolate Low Fat Milk\nMayonnaise Light\, 0.437 oz\nMustard Packet\nKetchup Packet\nFat Free Ranch\, 0.4375 oz
 END:VEVENT
 BEGIN:VEVENT
 UID:saline-alternative-2026-09-17@salineschools
-DTSTAMP:20260823T201710Z
+DTSTAMP:20260824T202442Z
 DTSTART;VALUE=DATE:20260917
 SUMMARY:Classic Cheese Pizza
 DESCRIPTION:Full menu:\nClassic Cheese Pizza\nTraditional Pepperoni Pizza\nClassic Cheeseburger in Bun\nClassic Hamburger\nCrispy Chicken Patty Sandwich\nSpicy Chicken Sandwich\nWaffle Fries\nSeasoned Turkey Taco Meat\nFajita Style Chicken\nTortilla Chips\nSoft Flour Tortilla\nCilantro Lime Brown Rice\nCreamy Cheddar Cheese Sauce\nShredded Romaine Lettuce\nPico de Gallo\nShredded Cheddar Cheese\nBuffalo Ranch Sauce\nSour Cream\nDeli Turkey\nSliced Deli Ham\nSub Roll\nAmerican Cheese\nProvolone Cheese\nShredded Lettuce\nSliced Tomatoes\nSliced Cucumbers\nRed and Green Bell Pepper Strips\nFresh Sliced Red Onion\nMayonnaise\nYellow Mustard\nSpicy Mayo\nGolden Italian Dressing\nHomemade Honey Mustard Dressing\nSouthwestern Ranch Dressing\nHam & Turkey Chef Salad\nPopcorn Chicken Salad\nBerry Parfait with Granola\nWhole Grain Blueberry Muffin\nFresh Whole Fruit\nAssorted Chilled Fruit\nAssorted Fruit Juice\nFresh Cherry Tomatoes\nCitrus Chickpea Salad\nBroccoli\nCorn & Black Bean Salad\nLow Fat Milk\nChocolate Low Fat Milk\nMayonnaise Light\, 0.437 oz\nMustard Packet\nKetchup Packet\nFat Free Ranch\, 0.4375 oz
 END:VEVENT
 BEGIN:VEVENT
 UID:saline-alternative-2026-09-18@salineschools
-DTSTAMP:20260823T201710Z
+DTSTAMP:20260824T202442Z
 DTSTART;VALUE=DATE:20260918
 SUMMARY:Classic Cheese Pizza
 DESCRIPTION:Full menu:\nClassic Cheese Pizza\nTraditional Pepperoni Pizza\nClassic Cheeseburger in Bun\nClassic Hamburger\nCrispy Chicken Patty Sandwich\nSpicy Chicken Sandwich\nSeasoned Crinkle Cut Fries\nSeasoned Turkey Taco Meat\nFajita Style Chicken\nTortilla Chips\nSoft Flour Tortilla\nCilantro Lime Brown Rice\nQueso Cheese Sauce\nShredded Romaine Lettuce\nPico de Gallo\nShredded Cheddar Cheese\nBuffalo Ranch Sauce\nSour Cream\nDeli Turkey\nSliced Deli Ham\nSub Roll\nAmerican Cheese\nProvolone Cheese\nShredded Lettuce\nSliced Tomatoes\nSliced Cucumbers\nRed and Green Bell Pepper Strips\nFresh Sliced Red Onion\nMayonnaise\nYellow Mustard\nSpicy Mayo\nGolden Italian Dressing\nHomemade Honey Mustard Dressing\nSouthwestern Ranch Dressing\nHam & Turkey Chef Salad\nPopcorn Chicken Salad\nBerry Parfait with Granola\nWhole Grain Blueberry Muffin\nFresh Whole Fruit\nAssorted Chilled Fruit\nAssorted Fruit Juice\nFresh Cherry Tomatoes\nCitrus Chickpea Salad\nBroccoli\nCorn & Black Bean Salad\nLow Fat Milk\nChocolate Low Fat Milk\nMayonnaise Light\, 0.437 oz\nMustard Packet\nKetchup Packet\nFat Free Ranch\, 0.4375 oz
+END:VEVENT
+BEGIN:VEVENT
+UID:saline-alternative-2026-09-21@salineschools
+DTSTAMP:20260824T202442Z
+DTSTART;VALUE=DATE:20260921
+SUMMARY:Classic Cheese Pizza
+DESCRIPTION:Full menu:\nClassic Cheese Pizza\nTraditional Pepperoni Pizza\nClassic American Cheeseburger\nClassic Hamburger\nCrispy Chicken Patty Sandwich\nSpicy Chicken Sandwich\nWaffle Fries\nSeasoned Turkey Taco Meat\nFajita Style Chicken\nTortilla Chips\nSoft Flour Tortilla\nFiesta Brown Rice\nQueso Cheese Sauce\nShredded Romaine Lettuce\nPico de Gallo\nShredded Cheddar Cheese\nBuffalo Ranch Sauce\nSour Cream\nDeli Turkey\nSliced Deli Ham\nSub Roll\nAmerican Cheese\nProvolone Cheese\nShredded Lettuce\nSliced Tomatoes\nSliced Cucumbers\nRed and Green Bell Pepper Strips\nFresh Sliced Red Onion\nMayonnaise\nYellow Mustard\nSpicy Mayo\nGolden Italian Dressing\nHomemade Honey Mustard Dressing\nSouthwestern Ranch Dressing\nAsian Chicken Salad\nBeef Taco Salad with Salsa\nBerry Parfait with Granola\nChocolate Chip Muffin\nFresh Orange\nChilled Mixed Fruit\nFresh Cherry Tomatoes\nBroccoli\nSpicy Bean Salad\nCorn Salad with Ranch\nLow Fat Milk\nChocolate Low Fat Milk\nMayonnaise Light\, 0.437 oz\nMustard Packet\nKetchup Packet\nFat Free Ranch\, 0.4375 oz
 END:VEVENT
 END:VCALENDAR
