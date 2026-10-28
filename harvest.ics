@@ -6,113 +6,106 @@ METHOD:PUBLISH
 X-WR-CALNAME:Harvest ES Lunch Menu
 X-WR-CALDESC:Lunch menus for Harvest ES.
 BEGIN:VEVENT
-UID:harvest-2026-10-27@salineschools
-DTSTAMP:20261027T232630Z
-DTSTART;VALUE=DATE:20261027
-SUMMARY:Cheese Stuffed Breadsticks
-DESCRIPTION:Full menu:\nCheese Stuffed Breadsticks\nPizza Sauce\nMuffin\, Goldfish & Yogurt Fun Lunch\nAssorted Fruit Juice\nAssorted Chilled Fruit\nFresh Whole Fruit\nRomaine Lettuce\nBaby Carrots & Celery Sticks\nCitrus Kidney & Garbanzo Bean Salad\nKetchup Packet\nMustard Packet\nMayonnaise\nRanch Dressing\nLow Fat Milk\nChocolate Low Fat Milk
-END:VEVENT
-BEGIN:VEVENT
 UID:harvest-2026-10-28@salineschools
-DTSTAMP:20261027T232630Z
+DTSTAMP:20261028T235114Z
 DTSTART;VALUE=DATE:20261028
 SUMMARY:Whole Grain French Toast Sticks
 DESCRIPTION:Full menu:\nWhole Grain French Toast Sticks\nTurkey Sausage Link\nSyrup\nHash Brown Patty\nMuffin\, Goldfish & Yogurt Fun Lunch\nAssorted Fruit Juice\nAssorted Chilled Fruit\nFresh Whole Fruit\nRomaine Lettuce\nBaby Carrots & Celery Sticks\nCitrus Kidney & Garbanzo Bean Salad\nKetchup Packet\nMustard Packet\nMayonnaise\nRanch Dressing\nLow Fat Milk\nChocolate Low Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:harvest-2026-10-29@salineschools
-DTSTAMP:20261027T232630Z
+DTSTAMP:20261028T235114Z
 DTSTART;VALUE=DATE:20261029
 SUMMARY:Classic Chicken Sandwich
 DESCRIPTION:Full menu:\nClassic Chicken Sandwich\nWaffle Fries\nMuffin\, Goldfish & Yogurt Fun Lunch\nAssorted Fruit Juice\nAssorted Chilled Fruit\nFresh Whole Fruit\nRomaine Lettuce\nBaby Carrots & Celery Sticks\nCitrus Kidney & Garbanzo Bean Salad\nKetchup Packet\nMustard Packet\nMayonnaise\nRanch Dressing\nLow Fat Milk\nChocolate Low Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:harvest-2026-10-30@salineschools
-DTSTAMP:20261027T232630Z
+DTSTAMP:20261028T235114Z
 DTSTART;VALUE=DATE:20261030
 SUMMARY:Classic Pepperoni Pizza
 DESCRIPTION:Full menu:\nClassic Pepperoni Pizza\nClassic Cheese Pizza\nMuffin\, Goldfish & Yogurt Fun Lunch\nAssorted Fruit Juice\nAssorted Chilled Fruit\nFresh Whole Fruit\nRomaine Lettuce\nBaby Carrots & Celery Sticks\nCitrus Kidney & Garbanzo Bean Salad\nKetchup Packet\nMustard Packet\nMayonnaise\nRanch Dressing\nLow Fat Milk\nChocolate Low Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:harvest-2026-11-02@salineschools
-DTSTAMP:20261027T232630Z
+DTSTAMP:20261028T235114Z
 DTSTART;VALUE=DATE:20261102
 SUMMARY:BBQ Rib-B-Q Sandwich
 DESCRIPTION:Full menu:\nBBQ Rib-B-Q Sandwich\nVegetarian Baked Beans\nHummus Dip with Veggies & Bread\nCheddar Goldfish Crackers\nAssorted Fruit Juice\nAssorted Chilled Fruit\nFresh Whole Fruit\nSliced Cucumbers\nBlack Beans\nKetchup Packet\nMustard Packet\nMayonnaise\nRanch Dressing\nLow Fat Milk\nChocolate Low Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:harvest-2026-11-03@salineschools
-DTSTAMP:20261027T232630Z
+DTSTAMP:20261028T235114Z
 DTSTART;VALUE=DATE:20261103
 SUMMARY:Sweet & Sour Chicken with Pineapple & Bell Peppers
 DESCRIPTION:Full menu:\nSweet & Sour Chicken with Pineapple & Bell Peppers\nVegetable Fried Rice\nHummus Dip with Veggies & Bread\nCheddar Goldfish Crackers\nAssorted Fruit Juice\nAssorted Chilled Fruit\nFresh Whole Fruit\nSliced Cucumbers\nBlack Beans\nKetchup Packet\nMustard Packet\nMayonnaise\nRanch Dressing\nLow Fat Milk\nChocolate Low Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:harvest-2026-11-04@salineschools
-DTSTAMP:20261027T232630Z
+DTSTAMP:20261028T235114Z
 DTSTART;VALUE=DATE:20261104
 SUMMARY:Mini Maple Pancakes
 DESCRIPTION:Full menu:\nMini Maple Pancakes\nTurkey Sausage Link\nHummus Dip with Veggies & Bread\nCheddar Goldfish Crackers\nAssorted Fruit Juice\nAssorted Chilled Fruit\nFresh Whole Fruit\nCorn & Black Bean Salsa Salad\nSliced Cucumbers\nKetchup Packet\nMustard Packet\nMayonnaise\nRanch Dressing\nLow Fat Milk\nChocolate Low Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:harvest-2026-11-05@salineschools
-DTSTAMP:20261027T232630Z
+DTSTAMP:20261028T235114Z
 DTSTART;VALUE=DATE:20261105
 SUMMARY:Mashed Potato & Chicken Bowl
 DESCRIPTION:Full menu:\nMashed Potato & Chicken Bowl\nDinner Roll\nHummus Dip with Veggies & Bread\nCheddar Goldfish Crackers\nAssorted Fruit Juice\nAssorted Chilled Fruit\nFresh Whole Fruit\nSliced Cucumbers\nBlack Beans\nKetchup Packet\nMustard Packet\nMayonnaise\nRanch Dressing\nLow Fat Milk\nChocolate Low Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:harvest-2026-11-06@salineschools
-DTSTAMP:20261027T232630Z
+DTSTAMP:20261028T235114Z
 DTSTART;VALUE=DATE:20261106
 SUMMARY:Classic Pepperoni Pizza
 DESCRIPTION:Full menu:\nClassic Pepperoni Pizza\nBroccoli\nClassic Cheese Pizza\nHummus Dip with Veggies & Bread\nCheddar Goldfish Crackers\nAssorted Fruit Juice\nAssorted Chilled Fruit\nFresh Whole Fruit\nSliced Cucumbers\nBlack Beans\nKetchup Packet\nMustard Packet\nMayonnaise\nRanch Dressing\nLow Fat Milk\nChocolate Low Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:harvest-2026-11-09@salineschools
-DTSTAMP:20261027T232630Z
+DTSTAMP:20261028T235114Z
 DTSTART;VALUE=DATE:20261109
 SUMMARY:Bacon Cheeseburger
 DESCRIPTION:Full menu:\nBacon Cheeseburger\nFrench Fries\nMuffin\, Goldfish & Yogurt Fun Lunch\nAssorted Fruit Juice\nAssorted Chilled Fruit\nFresh Whole Fruit\nRomaine Lettuce\nBaby Carrots & Celery Sticks\nGarbanzo Beans\nBroccoli\nKetchup Packet\nMustard Packet\nMayonnaise\nRanch Dressing\nLow Fat Milk\nChocolate Low Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:harvest-2026-11-10@salineschools
-DTSTAMP:20261027T232630Z
+DTSTAMP:20261028T235114Z
 DTSTART;VALUE=DATE:20261110
 SUMMARY:Beef Nachos
 DESCRIPTION:Full menu:\nBeef Nachos\nMuffin\, Goldfish & Yogurt Fun Lunch\nAssorted Fruit Juice\nAssorted Chilled Fruit\nFresh Whole Fruit\nRomaine Lettuce\nBaby Carrots & Celery Sticks\nGarbanzo Beans\nBroccoli\nKetchup Packet\nMustard Packet\nMayonnaise\nRanch Dressing\nLow Fat Milk\nChocolate Low Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:harvest-2026-11-11@salineschools
-DTSTAMP:20261027T232630Z
+DTSTAMP:20261028T235114Z
 DTSTART;VALUE=DATE:20261111
 SUMMARY:Whole Grain French Toast Sticks
 DESCRIPTION:Full menu:\nWhole Grain French Toast Sticks\nTurkey Sausage Link\nHash Brown Patty\nMuffin\, Goldfish & Yogurt Fun Lunch\nAssorted Fruit Juice\nAssorted Chilled Fruit\nFresh Whole Fruit\nRomaine Lettuce\nBaby Carrots & Celery Sticks\nGarbanzo Beans\nBroccoli\nKetchup Packet\nMustard Packet\nMayonnaise\nRanch Dressing\nLow Fat Milk\nChocolate Low Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:harvest-2026-11-12@salineschools
-DTSTAMP:20261027T232630Z
+DTSTAMP:20261028T235114Z
 DTSTART;VALUE=DATE:20261112
 SUMMARY:Jumbo Whole Muscle Chicken Tenders
 DESCRIPTION:Full menu:\nJumbo Whole Muscle Chicken Tenders\nDinner Roll\nSweet Potato Fries\nMuffin\, Goldfish & Yogurt Fun Lunch\nAssorted Fruit Juice\nAssorted Chilled Fruit\nFresh Whole Fruit\nRomaine Lettuce\nBaby Carrots & Celery Sticks\nGarbanzo Beans\nBroccoli\nKetchup Packet\nMustard Packet\nMayonnaise\nRanch Dressing\nLow Fat Milk\nChocolate Low Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:harvest-2026-11-13@salineschools
-DTSTAMP:20261027T232630Z
+DTSTAMP:20261028T235114Z
 DTSTART;VALUE=DATE:20261113
 SUMMARY:Classic Pepperoni Pizza
 DESCRIPTION:Full menu:\nClassic Pepperoni Pizza\nClassic Cheese Pizza\nMuffin\, Goldfish & Yogurt Fun Lunch\nAssorted Fruit Juice\nAssorted Chilled Fruit\nFresh Whole Fruit\nRomaine Lettuce\nBaby Carrots & Celery Sticks\nGarbanzo Beans\nBroccoli\nKetchup Packet\nMustard Packet\nMayonnaise\nRanch Dressing\nLow Fat Milk\nChocolate Low Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:harvest-2026-11-16@salineschools
-DTSTAMP:20261027T232630Z
+DTSTAMP:20261028T235114Z
 DTSTART;VALUE=DATE:20261116
 SUMMARY:Chicken Nuggets
 DESCRIPTION:Full menu:\nChicken Nuggets\nDinner Roll\nBBQ Sauce\nVegetarian Baked Beans\nMuffin\, Goldfish & Yogurt Fun Lunch\nAssorted Fruit Juice\nAssorted Chilled Fruit\nFresh Whole Fruit\nCorn & Black Bean Salsa Salad\nSliced Cucumbers\nFresh Broccoli Florets\nFresh Carrots\nKetchup Packet\nMustard Packet\nMayonnaise\nRanch Dressing\nLow Fat Milk\nChocolate Low Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:harvest-2026-11-17@salineschools
-DTSTAMP:20261027T232630Z
+DTSTAMP:20261028T235114Z
 DTSTART;VALUE=DATE:20261117
 SUMMARY:Halal Turkey Breast
 DESCRIPTION:Full menu:\nHalal Turkey Breast\nHouse-Made Stuffing\nFresh Baked Whole Grain Biscuit\nCranberry Sauce\nTurkey Gravy\nGarlic Mashed Potatoes\nMuffin\, Goldfish & Yogurt Fun Lunch\nAssorted Fruit Juice\nAssorted Chilled Fruit\nFresh Whole Fruit\nCorn & Black Bean Salsa Salad\nSliced Cucumbers\nFresh Broccoli Florets\nFresh Carrots\nKetchup Packet\nMustard Packet\nMayonnaise\nRanch Dressing\nLow Fat Milk\nChocolate Low Fat Milk
