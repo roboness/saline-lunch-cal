@@ -6,78 +6,71 @@ METHOD:PUBLISH
 X-WR-CALNAME:Pooh Corner PreK for All Lunch Menu
 X-WR-CALDESC:Lunch menus for Pooh Corner PreK for All.
 BEGIN:VEVENT
-UID:pooh-corner-2026-11-10@salineschools
-DTSTAMP:20261110T023048Z
-DTSTART;VALUE=DATE:20261110
-SUMMARY:Beef Nachos
-DESCRIPTION:Full menu:\nBeef Nachos\nSeasoned Black Beans\nAssorted Chilled Fruit\nLow Fat Milk
-END:VEVENT
-BEGIN:VEVENT
 UID:pooh-corner-2026-11-11@salineschools
-DTSTAMP:20261110T023048Z
+DTSTAMP:20261111T002318Z
 DTSTART;VALUE=DATE:20261111
 SUMMARY:Crispy Chicken Patty Sandwich
 DESCRIPTION:Full menu:\nCrispy Chicken Patty Sandwich\nRoasted Broccoli\nAssorted Chilled Fruit\nLow Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:pooh-corner-2026-11-12@salineschools
-DTSTAMP:20261110T023048Z
+DTSTAMP:20261111T002318Z
 DTSTART;VALUE=DATE:20261112
 SUMMARY:Mini  French Toast
 DESCRIPTION:Full menu:\nMini  French Toast\nTurkey Sausage Link\nHash Brown Patty\nAssorted Chilled Fruit\nLow Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:pooh-corner-2026-11-13@salineschools
-DTSTAMP:20261110T023048Z
+DTSTAMP:20261111T002318Z
 DTSTART;VALUE=DATE:20261113
 SUMMARY:Classic Cheese Pizza
 DESCRIPTION:Full menu:\nClassic Cheese Pizza\nSeasoned Corn\nAssorted Chilled Fruit\nLow Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:pooh-corner-2026-11-16@salineschools
-DTSTAMP:20261110T023048Z
+DTSTAMP:20261111T002318Z
 DTSTART;VALUE=DATE:20261116
 SUMMARY:Chicken Nuggets
 DESCRIPTION:Full menu:\nChicken Nuggets\nDinner Roll\nBarbecue Sauce\nBaked Beans\nAssorted Chilled Fruit\nLow Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:pooh-corner-2026-11-17@salineschools
-DTSTAMP:20261110T023048Z
+DTSTAMP:20261111T002318Z
 DTSTART;VALUE=DATE:20261117
 SUMMARY:Halal Turkey Breast
 DESCRIPTION:Full menu:\nHalal Turkey Breast\nFresh Baked Whole Grain Biscuit\nTurkey Gravy\nCranberry Sauce\nGarlic Mashed Potatoes\nAssorted Chilled Fruit\nLow Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:pooh-corner-2026-11-30@salineschools
-DTSTAMP:20261110T023048Z
+DTSTAMP:20261111T002318Z
 DTSTART;VALUE=DATE:20261130
 SUMMARY:BBQ Rib-B-Q Sandwich
 DESCRIPTION:Full menu:\nBBQ Rib-B-Q Sandwich\nVegetarian Baked Beans\nAssorted Chilled Fruit\nLow Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:pooh-corner-2026-12-01@salineschools
-DTSTAMP:20261110T023048Z
+DTSTAMP:20261111T002318Z
 DTSTART;VALUE=DATE:20261201
 SUMMARY:Fiestada Pizza
 DESCRIPTION:Full menu:\nFiestada Pizza\nCorn\nAssorted Chilled Fruit\nLow Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:pooh-corner-2026-12-02@salineschools
-DTSTAMP:20261110T023048Z
+DTSTAMP:20261111T002318Z
 DTSTART;VALUE=DATE:20261202
 SUMMARY:Turkey Ham & Cheese on Pretzel Roll
 DESCRIPTION:Full menu:\nTurkey Ham & Cheese on Pretzel Roll\nOven Baked Curly Fries\nAssorted Chilled Fruit\nLow Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:pooh-corner-2026-12-03@salineschools
-DTSTAMP:20261110T023048Z
+DTSTAMP:20261111T002318Z
 DTSTART;VALUE=DATE:20261203
 SUMMARY:Mini Maple Pancakes
 DESCRIPTION:Full menu:\nMini Maple Pancakes\nTurkey Sausage Link\nHash Brown Patty\nAssorted Chilled Fruit\nLow Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:pooh-corner-2026-12-04@salineschools
-DTSTAMP:20261110T023048Z
+DTSTAMP:20261111T002318Z
 DTSTART;VALUE=DATE:20261204
 SUMMARY:Classic Cheese Pizza
 DESCRIPTION:Full menu:\nClassic Cheese Pizza\nBroccoli\nAssorted Chilled Fruit\nLow Fat Milk
