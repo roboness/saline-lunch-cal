@@ -7,105 +7,105 @@ X-WR-CALNAME:Little Star Lunch Menu
 X-WR-CALDESC:Lunch menus for Little Star.
 BEGIN:VEVENT
 UID:little-star-2026-11-30@salineschools
-DTSTAMP:20261124T043354Z
+DTSTAMP:20261125T032019Z
 DTSTART;VALUE=DATE:20261130
 SUMMARY:BBQ Rib-B-Q Sandwich
 DESCRIPTION:Full menu:\nBBQ Rib-B-Q Sandwich\nVegetarian Baked Beans\nAssorted Chilled Fruit\nLow Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:little-star-2026-12-01@salineschools
-DTSTAMP:20261124T043354Z
+DTSTAMP:20261125T032019Z
 DTSTART;VALUE=DATE:20261201
 SUMMARY:Fiestada Pizza
 DESCRIPTION:Full menu:\nFiestada Pizza\nCorn\nAssorted Chilled Fruit\nLow Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:little-star-2026-12-02@salineschools
-DTSTAMP:20261124T043354Z
+DTSTAMP:20261125T032019Z
 DTSTART;VALUE=DATE:20261202
 SUMMARY:Turkey Ham & Cheese on Pretzel Roll
 DESCRIPTION:Full menu:\nTurkey Ham & Cheese on Pretzel Roll\nOven Baked Curly Fries\nAssorted Chilled Fruit\nLow Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:little-star-2026-12-03@salineschools
-DTSTAMP:20261124T043354Z
+DTSTAMP:20261125T032019Z
 DTSTART;VALUE=DATE:20261203
 SUMMARY:Mini Maple Pancakes
 DESCRIPTION:Full menu:\nMini Maple Pancakes\nTurkey Sausage Link\nHash Brown Patty\nAssorted Chilled Fruit\nLow Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:little-star-2026-12-04@salineschools
-DTSTAMP:20261124T043354Z
+DTSTAMP:20261125T032019Z
 DTSTART;VALUE=DATE:20261204
 SUMMARY:Classic Cheese Pizza
 DESCRIPTION:Full menu:\nClassic Cheese Pizza\nBroccoli\nAssorted Chilled Fruit\nLow Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:little-star-2026-12-07@salineschools
-DTSTAMP:20261124T043354Z
+DTSTAMP:20261125T032019Z
 DTSTART;VALUE=DATE:20261207
 SUMMARY:Bacon Cheeseburger
 DESCRIPTION:Full menu:\nBacon Cheeseburger\nSeasoned Broccoli\nAssorted Chilled Fruit\nLow Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:little-star-2026-12-08@salineschools
-DTSTAMP:20261124T043354Z
+DTSTAMP:20261125T032019Z
 DTSTART;VALUE=DATE:20261208
 SUMMARY:Beef Nachos
 DESCRIPTION:Full menu:\nBeef Nachos\nSeasoned Black Beans\nAssorted Chilled Fruit\nLow Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:little-star-2026-12-09@salineschools
-DTSTAMP:20261124T043354Z
+DTSTAMP:20261125T032019Z
 DTSTART;VALUE=DATE:20261209
 SUMMARY:Crispy Chicken Patty Sandwich
 DESCRIPTION:Full menu:\nCrispy Chicken Patty Sandwich\nRoasted Broccoli\nAssorted Chilled Fruit\nLow Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:little-star-2026-12-10@salineschools
-DTSTAMP:20261124T043354Z
+DTSTAMP:20261125T032019Z
 DTSTART;VALUE=DATE:20261210
 SUMMARY:Mini  French Toast
 DESCRIPTION:Full menu:\nMini  French Toast\nTurkey Sausage Link\nHash Brown Patty\nAssorted Chilled Fruit\nLow Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:little-star-2026-12-11@salineschools
-DTSTAMP:20261124T043354Z
+DTSTAMP:20261125T032019Z
 DTSTART;VALUE=DATE:20261211
 SUMMARY:Classic Cheese Pizza
 DESCRIPTION:Full menu:\nClassic Cheese Pizza\nSeasoned Corn\nAssorted Chilled Fruit\nLow Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:little-star-2026-12-14@salineschools
-DTSTAMP:20261124T043354Z
+DTSTAMP:20261125T032019Z
 DTSTART;VALUE=DATE:20261214
 SUMMARY:Chicken Nuggets
 DESCRIPTION:Full menu:\nChicken Nuggets\nDinner Roll\nBarbecue Sauce\nBaked Beans\nAssorted Chilled Fruit\nLow Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:little-star-2026-12-15@salineschools
-DTSTAMP:20261124T043354Z
+DTSTAMP:20261125T032019Z
 DTSTART;VALUE=DATE:20261215
 SUMMARY:Turkey Ham & Cheese on Pretzel Roll
 DESCRIPTION:Full menu:\nTurkey Ham & Cheese on Pretzel Roll\nSeasoned Corn\nAssorted Chilled Fruit\nLow Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:little-star-2026-12-16@salineschools
-DTSTAMP:20261124T043354Z
+DTSTAMP:20261125T032019Z
 DTSTART;VALUE=DATE:20261216
 SUMMARY:Spaghetti with Chicken Meatballs
 DESCRIPTION:Full menu:\nSpaghetti with Chicken Meatballs\nBalsamic Roasted Summer Squash\nAssorted Chilled Fruit\nLow Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:little-star-2026-12-17@salineschools
-DTSTAMP:20261124T043354Z
+DTSTAMP:20261125T032019Z
 DTSTART;VALUE=DATE:20261217
 SUMMARY:Whole Grain Waffle
 DESCRIPTION:Full menu:\nWhole Grain Waffle\nTurkey Sausage Link\nSyrup\nTater Tots\nAssorted Chilled Fruit\nLow Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:little-star-2026-12-18@salineschools
-DTSTAMP:20261124T043354Z
+DTSTAMP:20261125T032019Z
 DTSTART;VALUE=DATE:20261218
 SUMMARY:Classic Cheese Pizza
 DESCRIPTION:Full menu:\nClassic Cheese Pizza\nRoasted Broccoli\nAssorted Chilled Fruit\nLow Fat Milk
